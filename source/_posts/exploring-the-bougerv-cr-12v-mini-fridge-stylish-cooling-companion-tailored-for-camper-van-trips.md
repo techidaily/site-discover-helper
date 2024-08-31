@@ -1,7 +1,7 @@
 ---
 title: "Exploring the BougeRV CR-12V Mini Fridge: Stylish Cooling Companion Tailored for Camper Van Trips"
-date: 2024-08-27 17:45:38
-updated: 2024-08-29 10:23:39
+date: 2024-08-30T20:21:23.190Z
+updated: 2024-08-31T20:21:23.190Z
 tags:
   - product-reviews
 categories:
@@ -82,6 +82,10 @@ Tyler Hayes / How-To Geek
 
  And about those pink, green, and purple color options. They weren’t initially appealing to me in photos, but the green one looked great in person. The idea of a pink and purple fridge has grown on me. However, don’t expect the exterior to stay pristine when you start lugging it around.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  The Controls Are Deceptively Simple
 
 ![Close up shot of the BougeRV CR 12V Mini Fridge control panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/close-up-shot-of-the-bougerv-cr-12v-mini-fridge-control-panel-2.JPG) 
@@ -96,6 +100,18 @@ Tyler Hayes / How-To Geek
 
 ![Top view of BougeRV CR 12V Mini Fridge with the lid open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/top-view-of-bougerv-cr-12v-mini-fridge-with-the-lid-open-2.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  To get a baseline sense of how well the mini fridge worked, I used it in my living room for a few days, letting it run for hours at a time. I cooled drinks and other foods that needed to be kept cold, and it worked as advertised.
@@ -108,12 +124,18 @@ Tyler Hayes / How-To Geek
 
 ![BougeRV CR 12V Mini Fridge AC and DC cords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bougerv-cr-12v-mini-fridge-ac-and-dc-cords-2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  In my time with the BougeRV CR Mini Fridge, I found that it wasn’t always precise in staying at the exact target temperature, but it was always close, staying within one or two degrees. For example, most times I set it for -7F it would plateau around -6F where it would hold reliably. This isn’t too unexpected for a fridge or cooler in this price range where the contents shouldn’t be critical enough to need 100% accuracy.
 
  The weather wasn't hot enough during my testing time to get a sense of how well this unit would do out in 80F or 90F temperatures. However, it should be noted that outside temperatures will be a factor in how fast the unit can get to its target and retain that level of cool.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The new color variants of the BougeRV CR 12V Mini Fridge retail for $239.99\. The gray version retails for [$199.99 on Amazon](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B08G1BBBQW?content-id=amzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f%3Aamzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f&cv%5Fct%5Fcx=bougerv+12+volt+refrigerator&dib=eyJ2IjoiMSJ9.CLvVajRZp84KwGbcHkPnBQ.Z5Id3E6yk3PpY4RqKAbDJjdew3dyMaBgcF-bFyd2xd4&dib%5Ftag=se&hvadid=602145685903&hvdev=c&hvlocphy=9031265&hvnetw=g&hvqmt=e&hvrand=1828371118507478185&hvtargid=kwd-1644345691853&hydadcr=7502%5F9586311&keywords=bougerv+12+volt+refrigerator&qid=1709651658&s=automotive&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002276&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbougerv-cr-12v-mini-fridge-review%2F&asc%5Fcampaign=Authority) but has been on sale at $169.99 from time to time. If the price was the same across the board, I might decide to pick one of the pastel colors. But when the gray and black options are cheaper, I would likely opt for a lower-cost one, regardless of color choice.
@@ -124,6 +146,9 @@ Tyler Hayes / How-To Geek
 
 ![View inside the BougeRV CR 12V Mini Fridge with a drink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/view-inside-the-bougerv-cr-12v-mini-fridge-with-a-drink-2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I’ve tried multiple electric coolers over the last couple of years and they’re a neat product that technology has made possible. Despite its look, the [BougeRV CR 12V Mini Fridge](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B0CLNL1JDK?content-id=amzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f%3Aamzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f&cv%5Fct%5Fcx=bougerv+12+volt+refrigerator&dib=eyJ2IjoiMSJ9.CLvVajRZp84KwGbcHkPnBQ.Z5Id3E6yk3PpY4RqKAbDJjdew3dyMaBgcF-bFyd2xd4&dib%5Ftag=se&hvadid=602145685903&hvdev=c&hvlocphy=9031265&hvnetw=g&hvqmt=e&hvrand=1828371118507478185&hvtargid=kwd-1644345691853&hydadcr=7502%5F9586311&keywords=bougerv+12+volt+refrigerator&qid=1709651658&s=automotive&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002276&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbougerv-cr-12v-mini-fridge-review%2F&asc%5Fcampaign=Authority) isn’t quite an electric cooler since it doesn’t do a great job of retaining its cold air without being plugged in.
@@ -134,6 +159,9 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  BougeRV CR 12V Mini Fridge
 
 8/ 10 
@@ -158,3 +186,46 @@ With ECO energy saving mode, this 23 Qt portable refrigerator's operating power 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-trends-in-advanced-iptv-video-capture-methods/"><u>[New] 2024 Approved  Trends in Advanced IPTV Video Capture Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-heres-what-you-dont-know-about-instagram-story-viewer/"><u>[New] In 2024, Here's What You Don't Know About Instagram Story Viewer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-gaming-snaps-top-5-windows-11-tactics/"><u>[New] Mastering Gaming Snaps  Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-revenue-with-youtubes-mobile-monetization-features-for-creators/"><u>[New] Streamlining Revenue with YouTube's Mobile Monetization Features for Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-big-five-most-popular-content-creators-for-2024/"><u>[New] YouTube's Big Five  Most Popular Content Creators for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/"><u>[Updated] Best FB Video Extractors for iOS Devices Ranked #1 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-call-transcript-for-study/"><u>[Updated] Capture Call Transcript for Study</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-essence-of-sharex-detailed-evaluations-and-alternates/"><u>[Updated] The Essence of ShareX  Detailed Evaluations & Alternates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-video-editors-for-macos-sierra/"><u>2024 Approved  Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-true-income-potential-in-podcasting/"><u>2024 Approved  Unveiling the True Income Potential in Podcasting</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/access-exclusive-downloads-of-award-winning-nigerian-cinema-at-no-cost/"><u>Access Exclusive Downloads of Award-Winning Nigerian Cinema at No Cost</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/complete-guide-to-fifa-world-cup-2018-group-stage-lineup-game-dates-and-results-with-latest-updates/"><u>Complete Guide to FIFA World Cup 2018 - Group Stage Lineup, Game Dates & Results with Latest Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-factory-reset-on-your-acer-device/"><u>Complete Guide: Steps to Perform a Full Factory Reset on Your Acer Device</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/convert-videos-with-ease-on-your-mac-try-the-macx-mkv-transcoding-tool-for-no-cost/"><u>Convert Videos with Ease on Your Mac – Try the MacX MKV Transcoding Tool for No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-zbook-nvme-m2-ssd-plus-optane-storage-windows-setup-guide/"><u>Download & Install HP ZBook Nvme M.2 SSD + Optane Storage - Windows Setup Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/download-princess-films-from-disney-free-collection-available/"><u>Download Princess Films From Disney: Free Collection Available</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/efficiently-expand-your-icloud-limits-strategies-for-deleting-unwanted-data-and-obtaining-more-free-space/"><u>Efficiently Expand Your iCloud Limits: Strategies for Deleting Unwanted Data and Obtaining More Free Space</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-gopro-video-editing-step-by-step-tutorials-for-all-devices/"><u>Effortless GoPro Video Editing: Step-by-Step Tutorials for All Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-stability-problems-within-black-ops-4-gameplay/"><u>Essential Fixes for Stability Problems Within Black Ops 4 Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-unveiled-the-journey-from-creation-to-mass-following-with-a-look-at-its-key-aspects/"><u>Facebook Unveiled: The Journey From Creation to Mass Following with a Look at Its Key Aspects</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-downloads-of-the-2022-youtube-music-awards-how-to-get-them-from-youtube/"><u>Free Downloads of the 2022 YouTube Music Awards – How to Get Them From YouTube</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-macdvd-ripper-convert-your-dvds-into-itunes-compatible-files-on-mac/"><u>Free MacDVD Ripper: Convert Your DVDs Into iTunes-Compatible Files on Mac</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-fix-itunes-failing-to-detect-or-connect-with-your-iphone/"><u>How to Fix iTunes Failing to Detect or Connect with Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-black-ops-cold-war-a-comprehensive-guide-for-windows-players/"><u>How to Restore Sounds in Black Ops Cold War - A Comprehensive Guide for Windows Players</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mastering-mp4-compression-and-format-change-on-mac-expert-strategies-with-leading-video-tools/"><u>Mastering MP4 Compression & Format Change on Mac - Expert Strategies with Leading Video Tools</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/musik-von-youtube-herunterladen-kostenlos-unter-verschiedenen-betriebssystemen-wie-windows-10-8-7-und-macos/"><u>Musik Von YouTube Herunterladen Kostenlos Unter Verschiedenen Betriebssystemen Wie Windows 10, 8, 7 Und macOS</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-and-easy-video-subtitle-tutorial-using-imovie/"><u>Quick and Easy Video Subtitle Tutorial Using iMovie</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-dealing-with-non-functional-mic-issues-in-steelseries-arctis-headset/"><u>Solution Guide: Dealing with Non-Functional Mic Issues in SteelSeries Arctis Headset</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/toothpaste-wont-fix-your-skip-along-dvd-learn-effective-alternatives-for-optimal-playback/"><u>Toothpaste Won't Fix Your Skip-Along DVD: Learn Effective Alternatives for Optimal Playback</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-f5-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco F5 Pro 5G</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-15-reliable-and-secure-free-downloads-apps-for-mac-in-2nd4/"><u>Top 15 Reliable and Secure Free Downloads Apps for Mac in 2nD4</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-liebesfilme-aller-zeiten-die-ultimative-herausforderung-zum-herunterladen/"><u>Top-Liebesfilme Aller Zeiten: Die Ultimative Herausforderung Zum Herunterladen</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/transform-your-videos-discover-digiartys-expertise-in-dvd-and-digital-media-conversion-services/"><u>Transform Your Videos: Discover Digiarty's Expertise in DVD and Digital Media Conversion Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-g42-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia G42 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unlock-all-access-to-premium-macxdvd-software-official-complimentary-full-license-offer/"><u>Unlock All-Access to Premium MacXDVD Software – Official, Complimentary Full License Offer!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-secure-your-footage-how-to-blur-faces-in-videos/"><u>Updated In 2024, Secure Your Footage How to Blur Faces in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-a15-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy A15 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/withings-move-smartwatch-where-vintage-beauty-meets-digital-innovation/"><u>Withings Move Smartwatch - Where Vintage Beauty Meets Digital Innovation</u></a></li>
+</ul></div>

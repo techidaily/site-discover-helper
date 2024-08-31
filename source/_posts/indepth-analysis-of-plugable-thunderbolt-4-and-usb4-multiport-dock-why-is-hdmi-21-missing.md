@@ -1,7 +1,7 @@
 ---
 title: "InDepth Analysis of Plugable Thunderbolt 4 & USB4 Multiport Dock: Why Is HDMI 2.1 Missing?"
-date: 2024-08-26 14:25:33
-updated: 2024-08-29 10:13:11
+date: 2024-08-30T20:21:19.709Z
+updated: 2024-08-31T20:21:19.709Z
 tags:
   - product-reviews
 categories:
@@ -67,6 +67,9 @@ Sergio Rodriguez / How-To Geek
 
  Let's get the bad out of the way first. Plugable’s Thunderbolt 4 dock is pretty well-suited for the high-end desk setup except for its lack of HDMI 2.1 support. While Plugable has a USB4 dock that packs dual HDMI 2.1 ports, each capable of 4K120 output, and other companies are [putting dual HDMI 2.1 ports on their docks](https://youtube-help.techidaily.com/in-2024-video-construction-lab/), Plugable's latest Thunderbolt 4 hub only supports up to 4K60 or 8K30\. This is a bit of a letdown when you consider how many 4K120 monitors are on the market today. Being locked to 4K60 could be considered a pretty big drawback for many. However, if you have a 1440p144 display at your desk, or simply stick to 60Hz at higher resolutions, then you’ll find this drawback very minimal indeed.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Hook Up Everything but the Kitchen Sink to Your Computer Through a Single Cable
 
 ![Power button and lights on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-lights-on-the-plugable-thunderbolt-4_53298090974_o.jpg) 
@@ -83,6 +86,10 @@ Sergio Rodriguez / How-To Geek
 
 ![Cables plugged into the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-plugged-into-the-plugable-thunderbolt-4_53297717201_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The overall design of Plugable’s Thunderbolt 4 dock is sophisticated, yet understated. The overall color scheme paired perfectly with my M1 Max MacBook Pro in Space Gray, and I loved the aesthetic overall. The black front and back blend seamlessly with my desk, and the finned cooling design on the side is a nice touch. Those with an Apple computer will likely love the aesthetic, and if you have a Windows-based setup, it’ll still look great sitting on your desk, though the color might not match quite as perfectly as it does with Apple’s computers.
@@ -93,16 +100,25 @@ Sergio Rodriguez / How-To Geek
 
 ![Cables included with the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-included-with-the-plugable-thunderbolt-4_53297717286_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  In times past, when buying Thunderbolt docks, I always had to buy a separate cable because the included one was typically just 0.3 meters long. Well, Plugable went the extra mile here—rightfully so, for the price—and includes a 1-meter cable to hook your laptop up with.
 
  This is actually a really nice touch and makes powering your setup with this docking station that much easier right out of the box. In addition to a nice Thunderbolt 4 cable, Plugable also includes one of its own USB-C to HDMI adapters in the package. This lets you leverage dual displays right out of the box, without having to buy anything else. While it would have been nice to see a second HDMI port on the dock itself, this is a better resolution than making you buy the adapter separately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Plugable Thunderbolt 4 Dock?
 
 ![Thunderbolt icon on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/thunderbolt-icon-on-the-plugable-thunderbolt-4_53296845237_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Coming in with a list price of $290, the [Plugable Thunderbolt 4 & USB4 Docking Station](http://www.amazon.com/dp/B0CFC9CR5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001020&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-thunderbolt-4-dock-review%2F&asc%5Fcampaign=Affiliate) is anything but cheap. While there are some more expensive Thunderbolt 4 docks on the market, Plugable is definitely hitting high in the pricing market. With all the ports that it offers and the included 1-meter Thunderbolt 4 cable, you’re still getting a good amount of value for the price.
@@ -113,6 +129,9 @@ Sergio Rodriguez / How-To Geek
 
 ![Plugable Thunderbolt 4 USB4 Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/plugable-thunderbolt-4-usb4-docking-station.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Plugable Thunderbolt 4 and USB4 Docking Station (TBT4-UDX1)
 
 7/ 10 
@@ -137,3 +156,46 @@ Plugable's latest Thunderbolt 4 and USB4 docking station delivers ample I/O for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-examining-the-usefulness-of-instagrams-selfie-validation/"><u>[New] 2024 Approved  Examining the Usefulness of Instagram's Selfie Validation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube-for-2024/"><u>[New] A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/"><u>[New] In 2024, Get the Best Free PC Sound Logger – Download X-Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-gaming-experience-with-top-tools/"><u>[New] Streamline Your Gaming Experience with Top Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-indicator-of-a-block-no-snapshots-received-for-2024/"><u>[New] The Indicator of a Block  No Snapshots Received for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-win-over-with-these-8-best-free-high-quality-3d-video-apps-for-2024/"><u>[New] Win Over with These 8 Best Free, High-Quality 3D Video Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-income-growth-in-gaming-videos/"><u>[Updated] Income Growth in Gaming Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-inside-the-tech-evaluating-webcam-videotaping-devices-for-2024/"><u>[Updated] Inside the Tech  Evaluating WebCam Videotaping Devices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-strategic-brand-alliances-for-video-influencers/"><u>2024 Approved  Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-hottest-8-video-clips-trending-today-online/"><u>2024 Approved  The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/access-exclusive-downloads-of-award-winning-nigerian-cinema-at-no-cost/"><u>Access Exclusive Downloads of Award-Winning Nigerian Cinema at No Cost</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/breakthrough-analysis-the-ingenious-design-of-b550-xt/"><u>Breakthrough Analysis: The Ingenious Design of B550-XT</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/complete-guide-to-fifa-world-cup-2018-group-stage-lineup-game-dates-and-results-with-latest-updates/"><u>Complete Guide to FIFA World Cup 2018 - Group Stage Lineup, Game Dates & Results with Latest Updates</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/convert-videos-with-ease-on-your-mac-try-the-macx-mkv-transcoding-tool-for-no-cost/"><u>Convert Videos with Ease on Your Mac – Try the MacX MKV Transcoding Tool for No Cost</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/download-princess-films-from-disney-free-collection-available/"><u>Download Princess Films From Disney: Free Collection Available</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/efficiently-expand-your-icloud-limits-strategies-for-deleting-unwanted-data-and-obtaining-more-free-space/"><u>Efficiently Expand Your iCloud Limits: Strategies for Deleting Unwanted Data and Obtaining More Free Space</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-gopro-video-editing-step-by-step-tutorials-for-all-devices/"><u>Effortless GoPro Video Editing: Step-by-Step Tutorials for All Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-downloads-of-the-2022-youtube-music-awards-how-to-get-them-from-youtube/"><u>Free Downloads of the 2022 YouTube Music Awards – How to Get Them From YouTube</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-macdvd-ripper-convert-your-dvds-into-itunes-compatible-files-on-mac/"><u>Free MacDVD Ripper: Convert Your DVDs Into iTunes-Compatible Files on Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-fix-itunes-failing-to-detect-or-connect-with-your-iphone/"><u>How to Fix iTunes Failing to Detect or Connect with Your iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-galaxy-a24-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung Galaxy A24</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-blaze-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Blaze Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mastering-mp4-compression-and-format-change-on-mac-expert-strategies-with-leading-video-tools/"><u>Mastering MP4 Compression & Format Change on Mac - Expert Strategies with Leading Video Tools</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/musik-von-youtube-herunterladen-kostenlos-unter-verschiedenen-betriebssystemen-wie-windows-10-8-7-und-macos/"><u>Musik Von YouTube Herunterladen Kostenlos Unter Verschiedenen Betriebssystemen Wie Windows 10, 8, 7 Und macOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-large-videos-on-mac-heres-how-to-do-it-quickly-and-effortlessly/"><u>New In 2024, Cutting Large Videos on Mac? Heres How to Do It Quickly and Effortlessly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/premium-picks-10-must-subscribe-news-channels/"><u>Premium Picks  10 Must-Subscribe News Channels</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-and-easy-video-subtitle-tutorial-using-imovie/"><u>Quick and Easy Video Subtitle Tutorial Using iMovie</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-first-screen-second-podcasts-vs-youtube-analysis/"><u>Sound First, Screen Second – Podcasts Vs YouTube Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sweet-words-around-the-world-30-chocolate-expressions/"><u>Sweet Words Around The World: 30 Chocolate Expressions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-chatgpt-applications-for-effective-conversation-with-your-digital-papers-and-pdf-files/"><u>The Ultimate List of ChatGPT Applications for Effective Conversation with Your Digital Papers and PDF Files</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/toothpaste-wont-fix-your-skip-along-dvd-learn-effective-alternatives-for-optimal-playback/"><u>Toothpaste Won't Fix Your Skip-Along DVD: Learn Effective Alternatives for Optimal Playback</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-15-reliable-and-secure-free-downloads-apps-for-mac-in-2nd4/"><u>Top 15 Reliable and Secure Free Downloads Apps for Mac in 2nD4</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-liebesfilme-aller-zeiten-die-ultimative-herausforderung-zum-herunterladen/"><u>Top-Liebesfilme Aller Zeiten: Die Ultimative Herausforderung Zum Herunterladen</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/transform-your-videos-discover-digiartys-expertise-in-dvd-and-digital-media-conversion-services/"><u>Transform Your Videos: Discover Digiarty's Expertise in DVD and Digital Media Conversion Services</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unlock-all-access-to-premium-macxdvd-software-official-complimentary-full-license-offer/"><u>Unlock All-Access to Premium MacXDVD Software – Official, Complimentary Full License Offer!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-contemporary-voiceover-practices-for-dynamic-video-creation-an-updated-guide/"><u>Updated 2024 Approved Contemporary Voiceover Practices for Dynamic Video Creation - An Updated Guide</u></a></li>
+</ul></div>
