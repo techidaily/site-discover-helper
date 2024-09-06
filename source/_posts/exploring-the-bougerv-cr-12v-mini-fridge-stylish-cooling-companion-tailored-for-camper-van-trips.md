@@ -1,7 +1,7 @@
 ---
 title: "Exploring the BougeRV CR-12V Mini Fridge: Stylish Cooling Companion Tailored for Camper Van Trips"
-date: 2024-08-30T20:21:23.190Z
-updated: 2024-08-31T20:21:23.190Z
+date: 2024-09-05T10:55:56.418Z
+updated: 2024-09-06T10:55:56.418Z
 tags:
   - product-reviews
 categories:
@@ -23,6 +23,18 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  BougeRV CR 12V Mini Fridge
 
 8/ 10 
@@ -62,10 +74,22 @@ With ECO energy saving mode, this 23 Qt portable refrigerator's operating power 
 
 [$176 at Amazon](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B0CLNL1JDK?content-id=amzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f%3Aamzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f&cv%5Fct%5Fcx=bougerv+12+volt+refrigerator&dib=eyJ2IjoiMSJ9.CLvVajRZp84KwGbcHkPnBQ.Z5Id3E6yk3PpY4RqKAbDJjdew3dyMaBgcF-bFyd2xd4&dib%5Ftag=se&hvadid=602145685903&hvdev=c&hvlocphy=9031265&hvnetw=g&hvqmt=e&hvrand=1828371118507478185&hvtargid=kwd-1644345691853&hydadcr=7502%5F9586311&keywords=bougerv+12+volt+refrigerator&qid=1709651658&s=automotive&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002276&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbougerv-cr-12v-mini-fridge-review%2F&asc%5Fcampaign=Authority) [$239.99 at BougeRV](https://shareasale.com/r.cfm?b=1575425&u=4338022&m=99165&urllink=https%3A%2F%2Fturbotech.pxf.io%2Fpyx4je&afftrack=techidaily) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  This Fridge Is Portable
 
 ![Distant view of BougeRV CR 12V Mini Fridge with the lid open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/distant-view-of-bougerv-cr-12v-mini-fridge-with-the-lid-open-2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  You can call it a fridge if you want, but I find it hard not to see this product as an electric cooler because of its form factor. With a magnetic top lid and embedded side handles, the BougeRV CR Mini Fridge is made to be portable. It doesn’t have a battery built-in, but it comes with AC and DC plugs to keep it cool at home or in a vehicle. It's perfect for moving to the patio, tailgate, or anywhere an event is happening. Plus, this unit goes beyond fridge duties and can keep frozen items from melting with an advertised cooling range between -7F and 50F.
@@ -82,14 +106,16 @@ Tyler Hayes / How-To Geek
 
  And about those pink, green, and purple color options. They weren’t initially appealing to me in photos, but the green one looked great in person. The idea of a pink and purple fridge has grown on me. However, don’t expect the exterior to stay pristine when you start lugging it around.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  The Controls Are Deceptively Simple
 
 ![Close up shot of the BougeRV CR 12V Mini Fridge control panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/close-up-shot-of-the-bougerv-cr-12v-mini-fridge-control-panel-2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The mini fridge controls are simple enough to pick up right away and complicated enough that you might forget how to do something. To get you started, the fridge does have a sticker listing the button functions like switching from Celsius to Fahrenheit, removing the lock, and switching between max and eco modes.
@@ -100,18 +126,6 @@ Tyler Hayes / How-To Geek
 
 ![Top view of BougeRV CR 12V Mini Fridge with the lid open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/top-view-of-bougerv-cr-12v-mini-fridge-with-the-lid-open-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  To get a baseline sense of how well the mini fridge worked, I used it in my living room for a few days, letting it run for hours at a time. I cooled drinks and other foods that needed to be kept cold, and it worked as advertised.
@@ -125,7 +139,10 @@ Tyler Hayes / How-To Geek
 ![BougeRV CR 12V Mini Fridge AC and DC cords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bougerv-cr-12v-mini-fridge-ac-and-dc-cords-2.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -133,22 +150,22 @@ Tyler Hayes / How-To Geek
 
  The weather wasn't hot enough during my testing time to get a sense of how well this unit would do out in 80F or 90F temperatures. However, it should be noted that outside temperatures will be a factor in how fast the unit can get to its target and retain that level of cool.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The new color variants of the BougeRV CR 12V Mini Fridge retail for $239.99\. The gray version retails for [$199.99 on Amazon](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B08G1BBBQW?content-id=amzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f%3Aamzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f&cv%5Fct%5Fcx=bougerv+12+volt+refrigerator&dib=eyJ2IjoiMSJ9.CLvVajRZp84KwGbcHkPnBQ.Z5Id3E6yk3PpY4RqKAbDJjdew3dyMaBgcF-bFyd2xd4&dib%5Ftag=se&hvadid=602145685903&hvdev=c&hvlocphy=9031265&hvnetw=g&hvqmt=e&hvrand=1828371118507478185&hvtargid=kwd-1644345691853&hydadcr=7502%5F9586311&keywords=bougerv+12+volt+refrigerator&qid=1709651658&s=automotive&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002276&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbougerv-cr-12v-mini-fridge-review%2F&asc%5Fcampaign=Authority) but has been on sale at $169.99 from time to time. If the price was the same across the board, I might decide to pick one of the pastel colors. But when the gray and black options are cheaper, I would likely opt for a lower-cost one, regardless of color choice.
 
  This mini-fridge is in line with other similar products. You can get more capacity for close to the same price, but with increased storage comes a bigger footprint and a heavier unit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the BougeRV CR 12V Mini Fridge?
 
 ![View inside the BougeRV CR 12V Mini Fridge with a drink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/view-inside-the-bougerv-cr-12v-mini-fridge-with-a-drink-2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I’ve tried multiple electric coolers over the last couple of years and they’re a neat product that technology has made possible. Despite its look, the [BougeRV CR 12V Mini Fridge](https://www.amazon.com/BougeRV-Portable-Refrigerator-Compressor-Tailgating/dp/B0CLNL1JDK?content-id=amzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f%3Aamzn1.sym.dd9d838b-6783-4821-8310-06c0d426ac6f&cv%5Fct%5Fcx=bougerv+12+volt+refrigerator&dib=eyJ2IjoiMSJ9.CLvVajRZp84KwGbcHkPnBQ.Z5Id3E6yk3PpY4RqKAbDJjdew3dyMaBgcF-bFyd2xd4&dib%5Ftag=se&hvadid=602145685903&hvdev=c&hvlocphy=9031265&hvnetw=g&hvqmt=e&hvrand=1828371118507478185&hvtargid=kwd-1644345691853&hydadcr=7502%5F9586311&keywords=bougerv+12+volt+refrigerator&qid=1709651658&s=automotive&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002276&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbougerv-cr-12v-mini-fridge-review%2F&asc%5Fcampaign=Authority) isn’t quite an electric cooler since it doesn’t do a great job of retaining its cold air without being plugged in.
@@ -157,10 +174,19 @@ Tyler Hayes / How-To Geek
 
 ![BougeRV Green Portable Fridge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/bougerv-green-portable-fridge.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  BougeRV CR 12V Mini Fridge
 
