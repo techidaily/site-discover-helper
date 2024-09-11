@@ -1,7 +1,7 @@
 ---
 title: "InDepth Analysis of Plugable Thunderbolt 4 & USB4 Multiport Dock: Why Is HDMI 2.1 Missing?"
-date: 2024-09-05T10:55:56.355Z
-updated: 2024-09-06T10:55:56.355Z
+date: 2024-09-10T09:14:12.938Z
+updated: 2024-09-11T09:14:12.938Z
 tags:
   - product-reviews
 categories:
@@ -9,14 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d7ecceaaa89118b497471a4a.jpg
 ---
 
-## InDepth Analysis of Plugable Thunderbolt 4 & USB4 Multiport Dock: Why Is HDMI 2.1 Missing?
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## InDepth Analysis of Plugable Thunderbolt 4 & USB4 Multiport Dock: Why Is HDMI 2.1 Missing?
+
 ### Key Takeaways
 
 * Plugable's Thunderbolt 4 docking station offers ample I/O, including three Thunderbolt 4 ports and 96W of certified charging.
@@ -26,6 +34,20 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  Plugable’s latest [Thunderbolt 4 & USB4 Docking Station](http://www.amazon.com/dp/B0CFC9CR5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001020&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-thunderbolt-4-dock-review%2F&asc%5Fcampaign=Affiliate), an 11-in-1 solution, could be a solid choice for the macOS-powered desk. While it’s compatible with Windows, this docking station focuses on the Apple crowd with multiple Thunderbolt 4 ports and up to 96W of certified charging power. Delivering HDMI 2.0 support for standard monitors up to 4K60 or 8K30, you’ll find the three Thunderbolt 4 and ample additional I/O ports that are perfect for hooking up your dual displays, 2.5G ethernet, your keyboard and mouse, as well as an NVMe-based SSD all through a single cable. It's all great, but it comes at a price.
 
 ![Plugable Thunderbolt 4 USB4 Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/plugable-thunderbolt-4-usb4-docking-station.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Plugable Thunderbolt 4 and USB4 Docking Station (TBT4-UDX1)
 
@@ -69,25 +91,53 @@ Plugable's latest Thunderbolt 4 and USB4 docking station delivers ample I/O for 
 
 ![The Plugable Thunderbolt 4 set up with a laptop and monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-plugable-thunderbolt-4-set-up-with-a-laptop-and-monitor_53296845222_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  Let's get the bad out of the way first. Plugable’s Thunderbolt 4 dock is pretty well-suited for the high-end desk setup except for its lack of HDMI 2.1 support. While Plugable has a USB4 dock that packs dual HDMI 2.1 ports, each capable of 4K120 output, and other companies are [putting dual HDMI 2.1 ports on their docks](https://youtube-help.techidaily.com/in-2024-video-construction-lab/), Plugable's latest Thunderbolt 4 hub only supports up to 4K60 or 8K30\. This is a bit of a letdown when you consider how many 4K120 monitors are on the market today. Being locked to 4K60 could be considered a pretty big drawback for many. However, if you have a 1440p144 display at your desk, or simply stick to 60Hz at higher resolutions, then you’ll find this drawback very minimal indeed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hook Up Everything but the Kitchen Sink to Your Computer Through a Single Cable
 
 ![Power button and lights on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-lights-on-the-plugable-thunderbolt-4_53298090974_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -97,12 +147,20 @@ Sergio Rodriguez / How-To Geek
 
  Around the back (where the host port _should_ be), you’ll find two more Thunderbolt 4 ports capable of 40Gbps bandwidth and up to 15W charging, the remaining three USB-A 10Gbps plugs, 2.5G ethernet, and the HDMI 2.0 output. All-in-all, this dock does allow you to have an entire desk plugged in, including two displays, thanks to the bundled USB-C to HDMI adapter. If you’re looking for a way to simplify your desk setup down to a single cable, this could be a fantastic solution.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  A Sleek Design Pairs Well With Apple’s Space Gray Computers
 
 ![Cables plugged into the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-plugged-into-the-plugable-thunderbolt-4_53297717201_o.jpg) 
@@ -113,44 +171,54 @@ Sergio Rodriguez / How-To Geek
 
  This dock also boasts a quality feel thanks to the majority of the parts being made out of aluminum. There’s a nice heft to it, and you won’t find the dock sliding around when plugging in your laptop unless you really pull on it.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975636">
+<span id="1993654">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Included 1M Thunderbolt 4 Cable and HDMI to USB-C Adapter Is a Nice Touch
 
 ![Cables included with the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/cables-included-with-the-plugable-thunderbolt-4_53297717286_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  In times past, when buying Thunderbolt docks, I always had to buy a separate cable because the included one was typically just 0.3 meters long. Well, Plugable went the extra mile here—rightfully so, for the price—and includes a 1-meter cable to hook your laptop up with.
 
  This is actually a really nice touch and makes powering your setup with this docking station that much easier right out of the box. In addition to a nice Thunderbolt 4 cable, Plugable also includes one of its own USB-C to HDMI adapters in the package. This lets you leverage dual displays right out of the box, without having to buy anything else. While it would have been nice to see a second HDMI port on the dock itself, this is a better resolution than making you buy the adapter separately.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the Plugable Thunderbolt 4 Dock?
 
 ![Thunderbolt icon on the Plugable Thunderbolt 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/thunderbolt-icon-on-the-plugable-thunderbolt-4_53296845237_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Coming in with a list price of $290, the [Plugable Thunderbolt 4 & USB4 Docking Station](http://www.amazon.com/dp/B0CFC9CR5W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001020&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-thunderbolt-4-dock-review%2F&asc%5Fcampaign=Affiliate) is anything but cheap. While there are some more expensive Thunderbolt 4 docks on the market, Plugable is definitely hitting high in the pricing market. With all the ports that it offers and the included 1-meter Thunderbolt 4 cable, you’re still getting a good amount of value for the price.
