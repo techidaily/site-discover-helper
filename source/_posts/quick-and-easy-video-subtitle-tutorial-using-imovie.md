@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Video Subtitle Tutorial Using iMovie
-date: 2024-09-19T07:50:55.467Z
-updated: 2024-09-21T03:41:45.288Z
+date: 2024-09-23T16:44:27.600Z
+updated: 2024-09-30T17:09:56.135Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b73decee245e264928d768a5a.jpg
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 Before we cut to the chase, what I should remind you is that you ought to make sure the video or movie you set about **adding subtitles to iMovie** is accepted by iMovie. That means the video or movie format is compatible with iMovie. See, it's known to all that iMovie only works with MP4, MOV, M4V video files. Thus, if your video or movie is formatted with FLV, MKV, AVCHD, WMV, etc., please convert video to iMovie supported video formats first. Here the high-end video conversion software - **MacX Video Converter Pro** is highly recommended for you to [add subtitles to movie](https://tools.techidaily.com/macxdvd/products/) and convert any video to iMovie friendly formats with unaffected quality and No.1 fast speed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Table of Contents
 
 * [Part 1 - How to Merge Subtitles with Videos with iMovie 11/9/8](https://tools.techidaily.com/macxdvd/products/)
@@ -42,6 +49,19 @@ Before we cut to the chase, what I should remind you is that you ought to make s
 This part focuses on [iMovie tutorial](https://tools.techidaily.com/macxdvd/products/) of **inserting subtitles to iMovie 11/9/8**. And Part 2 is the one for iMovie 10 users to put subtitles to videos thereon, for the procedure of iMovie 10 is a little bit different from the one in iMovie 11/9/8.
 
 ![add subtitles to iMovie 11/9/8](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/add-subtitles-imovie.png)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1: Launch iMovie 11/9/8 and open your iMovie project.**  
  Go to File→New Project→Drag video/movie clips to project window. 
@@ -67,6 +87,20 @@ This part focuses on [iMovie tutorial](https://tools.techidaily.com/macxdvd/prod
 
 ![add subtitles to iMovie 10](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/add-subtitles-imovie-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3 - iMovie Alternative: Better Solution to Add Subtitles to Videos Movies
 
 In a bid to **put subtitles to iMovie**, from the above tutorial, you see, you need to type the text and make sure the duration of subtitles, etc. How complicated it is! Worse still, when you wanna add a 2-hour movie subtitle to movie, it's hard to guarantee the task can be perfected by iMovie with no sequence error. So after many a user utilizes iMovie to insert text, they feel so disappointed with iMovie and can't wait to find out the **best iMovie alternative** to add soft subtitles to videos movies with greatest possible ease and quality.
@@ -76,19 +110,6 @@ Instead of using iMovie to add captions to videos movies, personally I got anoth
 With this self-contained video conversion app, there is needless to be upset about iMovie video compatibility issue since this video converter pro supports almost all the video format as input file formats like MP4, MOV, AVI, FLV, MKV, AVCHD, WMV, etc. Thus, you can add subtitles to whatever video movie as you like without video conversion any more.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## \[Tutorial\] How to Add Subtitles to Videos Movies with iMovie Alternative 
 
@@ -108,10 +129,10 @@ With this self-contained video conversion app, there is needless to be upset abo
 ![put subtitles to videos movies](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mvcp-add-subtitles-imovie.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Hit "Edit" button on the main interface of this software. Then the "Edit" window pops up. Just go to "Enable subtitle" -> "External Subtitle File" and click "Add" button to choose the .srt file you've saved on your computer. Move the mouse to "Done" button and click it to finish merging .srt file to your video.
@@ -124,13 +145,6 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
@@ -139,15 +153,22 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Add SRT Subtitles to AVI Video File](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [\[Where and How\] Movie Subtitles SRT Free Download](https://tools.techidaily.com/macxdvd/products/)
@@ -166,6 +187,13 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Hardcode SRT Subtitles to MKV Video Movie Files](https://tools.techidaily.com/macxdvd/products/) 
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
@@ -177,13 +205,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -221,5 +242,26 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-filming-gameplay-on-fbx/"><u>[New] Streamline Your Filming - Gameplay on FBX</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unleashing-content-extract-vimeo-videos-as-mp4/"><u>[Updated] 2024 Approved Unleashing Content Extract Vimeo Videos as MP4</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1725288347291-windowsmachd4k/"><u>關於在Windows和Mac電腦上提升影片解析度到HD/4K的方法</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-critique-the-ultimate-review-for-bublcam-360-camera-for-2024/"><u>Complete Critique The Ultimate Review for Bublcam 360 Camera for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-methods-to-download-movie-subtitles-from-mp4-files-hassle-free-guide/"><u>Free Methods to Download Movie Subtitles From MP4 Files - Hassle-Free Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/gratis-e-otimos-desentupidores-de-dvd-top-escolhidos-para-windows-1111-os-melhores-players-livres/"><u>Grátis E Ótimos! Desentupidores De DVD Top Escolhidos Para Windows 11/11 - Os Melhores Players Livres</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-7-by-drfone-ios/"><u>How To Unlock A Found iPhone 7?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>In 2024, A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-encyclopedia-on-hand-pose-identification-systems/"><u>In 2024, An Encyclopedia on Hand Pose Identification Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/profit-potential-unlocked-how-to-enroll-in-youtubes-membership-for-2024/"><u>Profit Potential Unlocked How to Enroll in YouTube's Membership for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-comprehensive-guide-on-correcting-kernel32dll-issues-in-windows/"><u>Solving the Puzzle: Comprehensive Guide on Correcting Kernel32.dll Issues in Windows</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-converting-your-dvds-into-digital-formats-on-pc-mac-or-smartphone/"><u>Step-by-Step Guide: Converting Your DVDs Into Digital Formats on PC, Mac or Smartphone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-definitive-guide-to-avoiding-youtube-copyright-issues-for-2024/"><u>The Definitive Guide to Avoiding YouTube Copyright Issues for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-hevc-video-transcoder-premium-h265-support-for-windows-10-and-mac-users/"><u>Ultimate HEVC Video Transcoder: Premium H.265 Support for Windows 10 & Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-1011-unsigned-updates-flaw/"><u>Unraveling Windows 10/11 Unsigned Updates Flaw</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winx-dvd-ripper-for-windows-10-fast-and-easy-free-converter-from-dvd-to-mp4/"><u>WinX DVD Ripper for Windows 10 - Fast & Easy Free Converter From DVD to MP4</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winx-mediatrans-pc/"><u>WinX MediaTrans - PC初心者用:簡単ダウンロードからインストールまでの手順</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1725284031985-winxvideo-ai/"><u>WinXVideo AI 기술에 관한 주요 질문과 해결: 확대하는 상호 작용</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winxvideo-professionelles-bild-video-und-audioaufzeichnungsprogramm-fur-webcams/"><u>WinXVideo: Professionelles Bild-, Video- Und Audioaufzeichnungsprogramm Für Webcams</u></a></li>
+</ul></div>
 
