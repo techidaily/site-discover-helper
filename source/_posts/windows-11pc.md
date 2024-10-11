@@ -1,7 +1,7 @@
 ---
 title: Windows 11によるPCアクティビティの記録手順
-date: 2024-10-05T01:46:06.282Z
-updated: 2024-10-06T01:11:59.803Z
+date: 2024-10-10T16:29:19.794Z
+updated: 2024-10-11T17:32:02.915Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63241c7d8da96fca41cce9da8.jpg
@@ -66,6 +66,13 @@ VLC offers options to change the video's Hue, Brightness, Contrast, Saturation, 
 
 ![Adjust Effect Setting in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-01-01.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With the above steps, the changes are directly applied to the video you’re playing in VLC. If you want to keep these effects permanently, you should:
 
 ▪ Open VLC and click **Media > Convert/Save**.  
@@ -77,13 +84,6 @@ With the above steps, the changes are directly applied to the video you’re pla
  ▪ Hit **Browse** to set an output folder and click **Start** to export the video. 
 
 ![VLC Export Video with Effects](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-02.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![VLC Export Video with Effects](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-02-02.webp) 
 
@@ -100,13 +100,6 @@ VLC provides an easy solution for you to remove jagged edge artifacts from a vid
  ▪ Now, choose a destination and then hit **Start**.
 
 ![Check the Deinterlace Option](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-03.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Check the Deinterlace Option](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-03-03.webp) 
 
@@ -127,13 +120,6 @@ Many Nvidia card users have encountered the washed-out color issue when playing 
 
 ![Adjust Video Color Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-04-04.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you fail to bring up the Nvidia Control Panel or the above method doesn’t make any improvement, the issue might be with the use of YUV, which is a television standard. You can keep going with the following steps to cancel it: 
 
 ▪ Start VLC and go to **Tools > Preferences**.   
@@ -143,21 +129,7 @@ If you fail to bring up the Nvidia Control Panel or the above method doesn’t m
 
 ![Disable the Hardware YUV Option in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-05.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Hardware YUV Option in VLC](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-05-05.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here is another workaround you can try to enhance the output video quality in VLC: 
 
@@ -170,6 +142,13 @@ Here is another workaround you can try to enhance the output video quality in VL
 ![VLC Change Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-06.webp) 
 
 ![VLC Change Output Settings](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-06-06.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Activate the RTX Video Super Resolution Feature in VLC 
 
@@ -211,27 +190,20 @@ Download and install **WonderFox HD Video Converter Factory Pro** to your comput
 
   
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2\. Import Your Videos
 
 Enter the **Converter** module. Click the **Add Files** button and select the videos you want to upscale. Alternatively, you can drag and drop them into the software. 
 
 ![Import Your Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-08.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Import Your Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-08-08.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3\. Choose a Compatible Format
 
@@ -240,6 +212,13 @@ Click the right-side format image to expand the full list of 500+ output profile
 ![Choose a Compatible Format](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-09.webp) 
 
 ![Choose a Compatible Format](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-09-09.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4\. Tweak Settings to Control Output Quality
 
@@ -255,14 +234,14 @@ Click the bottom inverted triangle button to specify an output path for the outp
 
 ![Export the Enhanced Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-11.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Export the Enhanced Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-11-11.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In Conclusion 
 
@@ -272,7 +251,27 @@ Similar Articles
 
 [![Improve Video Quality](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-slt-1.webp) Improve Video Quality](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Upscale 1080P to 4K](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-slt-2.webp) Upscale 1080P to 4K](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![Video Enhancer](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-slt-3.webp) Video Enhancer](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [![How to Fix Bad Quality Videos](https://www.videoconverterfactory.com/tips/imgs-self/vlc-upscaling/vlc-upscaling-slt-4.webp) How to Fix Bad Quality Videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/imgs-self/box-ripperpro-l.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Recommend: Best DVD Ripper for Windows
 
@@ -282,6 +281,13 @@ Recommend: Best DVD Ripper for Windows
 * Edit and compress DVD videos before ripping;
 * Compatible with Windows 11/10/8/7 and lower;
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/dvdripperpro.html?from=vlc-upscaling.html/d/rec) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dvd-ripper/mobile-checking.html?from=vlc-upscaling.html/m/rec) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 \* Please DO NOT use it to rip any copy-protected DVDs for commercial use. 
 
@@ -302,19 +308,24 @@ Recommend: Best DVD Ripper for Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-voice-memos-inspectors-handbook/"><u>[New] In 2024, Voice Memos Inspector's Handbook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-inside-out-unveiling-the-true-intentions-behind-emojis-for-2024/"><u>[New] Inside Out Unveiling the True Intentions Behind Emojis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[New] Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-psd-color-dynamics/"><u>2024 Approved Master PSD Color Dynamics</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-extracting-soundtracks-from-your-dvds/"><u>Step-by-Step Guide: Extracting Soundtracks From Your DVDs</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-for-streaming-pc-gaming-on-windows-via-obs-quick-and-straightforward-methods/"><u>Step-by-Step Tutorial for Streaming PC Gaming on Windows via OBS: Quick & Straightforward Methods</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-capturing-and-archiving-your-zoom-meetings-successfully/"><u>Step-by-Step Tutorial: Capturing and Archiving Your Zoom Meetings Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-5-methods-for-converting-mp4-files-to-vob-format-windows-mac-and-online-options/"><u>Top 5 Methods for Converting MP4 Files to VOB Format : Windows, Mac & Online Options</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-6-free-online-platforms-streaming-classic-cartoon-episodes/"><u>Top 6 Free Online Platforms Streaming Classic Cartoon Episodes</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-9-must-have-kodi-addons-for-streaming-the-greatest-indian-cinema/"><u>Top 9 Must-Have Kodi Addons for Streaming the Greatest Indian Cinema</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wallet-friendly-4k-camera-and-camcorder-deals/"><u>Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[New] 2024 Approved Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-dull-to-dynamic-top-11-techniques-for-enhanced-hues/"><u>[New] From Dull to Dynamic Top 11 Techniques for Enhanced Hues</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-techniques-for-downloading-your-favorite-shows-from-comedy-central/"><u>Best Techniques for Downloading Your Favorite Shows From Comedy Central</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/choose-honesty-the-official-way-to-use-wonderfox-dvd-ripper-pro/"><u>Choose Honesty - The Official Way to Use WonderFox DVD Ripper Pro!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/complete-list-of-easy-ways-to-get-your-hands-on-stunning-3d-movie-experiences/"><u>Complete List of Easy Ways to Get Your Hands on Stunning 3D Movie Experiences</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/download-your-favorite-karaoke-music-from-youtube-for-free-a-comprehensive-tutorial/"><u>Download Your Favorite Karaoke Music From YouTube for Free – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-methods-to-transform-high-quality-dolby-truehd-audio-into-compatible-dolby-digital-files/"><u>Easy Methods to Transform High-Quality Dolby TrueHD Audio Into Compatible Dolby Digital Files</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/finding-your-ideal-tv-viewing-experience-choosing-the-right-video-format-compatible-with-leading-manufacturers-such-as-lg-samsung-sony-and-tcl/"><u>Finding Your Ideal TV Viewing Experience: Choosing the Right Video Format Compatible with Leading Manufacturers Such as LG, Samsung, Sony, and TCL.</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/gopro-videos-not-playing-smoothly-on-your-pc-heres-how-to-fix-uneven-frame-rates-and-buffering-problems/"><u>GoPro Videos Not Playing Smoothly on Your PC? Here's How to Fix Uneven Frame Rates and Buffering Problems!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won’t Open – 2024 Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-transform-mp4-videos-into-mpeg-format-for-creating-vcds-and-dvds-a-step-by-step-guide/"><u>How to Transform MP4 Videos Into MPEG Format for Creating VCDs and DVDs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/imoviemp4mov-iphone-mac/"><u>IMovieにおけるMP4/MOVファイルの互換性改善法 ~ iPhone / Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workspace-unveiling-5-advanced-window-folder-methods/"><u>Transform Your Workspace: Unveiling 5 Advanced Window Folder Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-persistent-boot-failures-in-windows-11-computers/"><u>Understanding & Fixing Persistent Boot Failures in Windows 11 Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-creation-software-for-mac-edit-enhance-share/"><u>Updated 2024 Approved Video Creation Software for Mac Edit, Enhance, Share</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-videos-3-simple-ways-to-add-transitions-in-fcp/"><u>Updated In 2024, Elevate Your Videos 3 Simple Ways to Add Transitions in FCP</u></a></li>
 </ul></div>
 
