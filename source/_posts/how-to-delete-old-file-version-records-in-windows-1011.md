@@ -1,7 +1,7 @@
 ---
 title: How to Delete Old File Version Records in Windows 10/11
-date: 2024-10-10T18:03:58.147Z
-updated: 2024-10-17T17:56:13.700Z
+date: 2024-10-19T15:03:22.879Z
+updated: 2024-10-23T09:26:11.915Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a127099a1b3f68447cbedf311d96.jpg
@@ -49,13 +49,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -76,6 +69,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -95,10 +95,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -119,6 +119,13 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -138,10 +145,10 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -157,13 +164,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -212,10 +212,10 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -231,6 +231,19 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -262,13 +275,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -294,16 +300,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>[New] Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-symbolizing-sound-designing-a-captivating-podcast-image/"><u>[Updated] Symbolizing Sound Designing a Captivating Podcast Image</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/windows-11usb/"><u>创建Windows 11开机USB驱动器的两种方法 -详解</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-vivo-y36-by-drfone-android-unlock-android-unlock/"><u>Device unlock Vivo Y36</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/fast-and-simple-steps-creating-a-bootable-usb-with-burned-windows-server-2019-iso/"><u>Fast & Simple Steps: Creating a Bootable USB with Burned Windows Server 2019 ISO</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/quick-fixes-restoring-your-pc-with-windows-11-without-a-disc-or-flash-drive/"><u>Quick Fixes: Restoring Your PC with Windows 11 Without a Disc or Flash Drive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-storylines-dominating-film-landscapes/"><u>Quintessential Storylines Dominating Film Landscapes</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/simple-steps-successfully-setting-up-windows-11-on-an-mbr-hard-drive/"><u>Simple Steps: Successfully Setting Up Windows 11 on an MBR Hard Drive</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-12-free-artificial-intelligence-powered-video-improvement-tools-online-pc-and-mac/"><u>Top 12 Free Artificial Intelligence Powered Video Improvement Tools (Online, PC & MAC)</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-3-methoden-zum-schutz-von-iphone-informationen-pc-icloud-und-mehr-perfekt-integrieren/"><u>Top 3 Methoden Zum Schutz Von iPhone-Informationen: PC, iCloud Und Mehr – Perfekt Integrieren!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ettled-silent-shorter-showcase-ended-for-2024/"><u>[New] Settled Silent Shorter Showcase Ended for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-soundscapes-enhancing-photography-online/"><u>[Updated] 2024 Approved Soundscapes Enhancing Photography Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/windows-section-1-advanced-problem-on-sweep-frequency-generation/"><u>重要技巧：拯救和回魂Windows # Section 1: Advanced Problem on Sweep Frequency Generation</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/abilitazione-dellavvio-sicuro-non-attivata-su-windows-11-risolto/"><u>Abilitazione Dell'Avvio Sicuro Non Attivata Su Windows 11 [Risolto]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-unveils-plans-for-a-new-os-tailored-to-fortify-its-artifical-intelligence-servers-explore-what-weve-learned-so-far/"><u>Apple Unveils Plans for a New OS Tailored to Fortify Its Artifical Intelligence Servers – Explore What We've Learned So Far</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-electronics-tips-from-toms-hardware/"><u>Exploring the World of Electronics - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asmr-studio-essentials-great-quality-easy-on-wallet/"><u>In 2024, ASMR Studio Essentials Great Quality, Easy On Wallet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/resolution-de-problemes-dautorisation-des-fichiers-sans-internet-sur-windows-11/"><u>Résolution De Problèmes D’Autorisation Des Fichiers Sans Internet Sur Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-how-to-cleanly-uninstall-software-on-windows-11/"><u>Ultimate Tutorial: How to Cleanly Uninstall Software on Windows 11</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/understanding-the-functions-of-a-vcenter-server-appliance-steps-to-verify-service-status/"><u>Understanding the Functions of a vCenter Server Appliance: Steps to Verify Service Status</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/update-now-activate-protection-features-for-data-encryption-in-windows-11-previously-greyed-out/"><u>Update Now: Activate Protection Features for Data Encryption in Windows 11 (Previously Greyed Out)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mpeg-video-splitter-software-top-picks/"><u>Updated Free MPEG Video Splitter Software Top Picks</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/wechsel-von-einem-alten-ipad-auf-ein-neues-professionelles-handbuch-zur-datenubertragung/"><u>Wechsel Von Einem Alten iPad Auf Ein Neues: Professionelles Handbuch Zur Datenübertragung</u></a></li>
 </ul></div>
 
