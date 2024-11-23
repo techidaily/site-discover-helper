@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Restore Google Drive Synchronization for PCs Using Windows 10 or 11
-date: 2024-11-09T03:36:06.912Z
-updated: 2024-11-12T23:30:01.177Z
+date: 2024-11-20T19:32:59.296Z
+updated: 2024-11-22T20:08:08.046Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
@@ -43,6 +43,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -50,29 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -96,16 +78,7 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -126,6 +99,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -144,13 +121,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -168,13 +138,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -236,6 +199,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -270,6 +237,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -281,10 +252,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -312,24 +280,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-multiplatform-vmix-blender/"><u>[New] 2024 Approved Multiplatform VMix Blender</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-short-videos-and-everything-about-them/"><u>[Updated] Facebook Short Videos and Everything About Them</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[Updated] In 2024, Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1-troubleshooting-unable-to-transfer-music-from-itunes-to-iphone-via-drag-and-drop/"><u>1. Troubleshooting: Unable to Transfer Music From iTunes to iPhone via Drag & Drop</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/accelerare-il-trasferimento-dei-dati-i-tre-migliori-strategie-per-windows-server-2019/"><u>Accelerare Il Trasferimento Dei Dati: I Tre Migliori Strategie per Windows Server 2019</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-recurring-starvation-error-that-causes-your-computer-to-crash/"><u>Beat the Recurring Starvation Error that Causes Your Computer to Crash</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a56s-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A56s 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima-for-2024/"><u>Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/comment-recuperer-des-dossiers-disparus-dans-outlook-guide-complet/"><u>Comment Récupérer Des Dossiers Disparus Dans Outlook - Guide Complet</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effiziente-methode-zum-vollstandigen-windows-10-systemsicherungsprozess-zwei-gratis-optionen-entdeckt/"><u>Effiziente Methode Zum Vollständigen Windows 10-Systemsicherungsprozess: Zwei Gratis-Optionen Entdeckt!</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/free-techniques-for-shifting-data-from-android-devices-onto-iphones/"><u>Free Techniques for Shifting Data From Android Devices Onto iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuit-mkb-to-vob-converter-en-ligne-un-essentiel-pour-les-auteurs-et-amateurs-de-film-movavi/"><u>Gratuit MKB-to-VOB Converter en Ligne: Un Essentiel Pour Les Auteurs Et Amateurs De Film - Movavi</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/guide-facile-et-complet-pour-transferer-votre-os-windows-7810-ou-11-vers-un-pc-fiable/"><u>Guide Facile Et Complet Pour Transférer Votre OS Windows (7,8,10 Ou 11) Vers Un PC Fiable</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-seamlessly-move-backups-between-computers-using-windows-11/"><u>How to Seamlessly Move Backups Between Computers Using Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Gionee FRP?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-5-elite-windows-data-rescue-applications-expert-ranked-reviews-and-ratings/"><u>Top 5 Elite Windows Data Rescue Applications: Expert Ranked Reviews & Ratings</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/tutorial-kodifying-nowiny-disk-tough-terrain-auf-ssd-sandisk-in-windows-1011/"><u>Tutorial: Kodifying Nowiny Disk Tough Terrain Auf SSD SanDisk in Windows 10/11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leveraging-instagram-stories-with-ease-and-flair/"><u>[Updated] Leveraging Instagram Stories with Ease and Flair</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-stunning-appraisal-and-alternative-suggestions/"><u>2024 Approved Stunning Appraisal & Alternative Suggestions</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/abilitazione-dellavvio-sicuro-non-attivata-su-windows-11-risolto/"><u>Abilitazione Dell'Avvio Sicuro Non Attivata Su Windows 11 [Risolto]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-non-chatgpt-conversational-ais/"><u>Discover the Leading Non-ChatGPT Conversational AIs</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/expert-tips-on-retrieving-information-from-nonfunctional-solid-state-drives/"><u>Expert Tips on Retrieving Information From Nonfunctional Solid State Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-livekernelevent-144-error/"><u>Fix LiveKernelEvent 144 Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-p55-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel P55 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-meme-code-principles-of-viral-video-content-creation/"><u>In 2024, The Meme Code Principles of Viral Video Content Creation</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/resolution-de-problemes-dautorisation-des-fichiers-sans-internet-sur-windows-11/"><u>Résolution De Problèmes D’Autorisation Des Fichiers Sans Internet Sur Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networks-rethink-content-the-path-to-informed-sharing/"><u>Social Networks Rethink Content: The Path to Informed Sharing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/wechsel-von-einem-alten-ipad-auf-ein-neues-professionelles-handbuch-zur-datenubertragung/"><u>Wechsel Von Einem Alten iPad Auf Ein Neues: Professionelles Handbuch Zur Datenübertragung</u></a></li>
 </ul></div>
 
