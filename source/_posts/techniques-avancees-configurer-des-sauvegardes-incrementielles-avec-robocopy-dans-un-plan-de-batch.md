@@ -1,7 +1,7 @@
 ---
 title: "Techniques Avancées: Configurer Des Sauvegardes Incrémentielles Avec Robocopy Dans Un Plan De Batch"
-date: 2024-11-09T22:10:56.224Z
-updated: 2024-11-12T16:52:13.689Z
+date: 2024-11-28T22:18:49.076Z
+updated: 2024-11-30T16:29:00.820Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc005c6762fe341027fca06ba6f.jpg
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
@@ -27,6 +31,10 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -42,11 +50,19 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
@@ -67,22 +83,12 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -99,6 +105,10 @@ Best free bootable media creation tool
 Step 1\. Download this software and open it. Click **Tools** and then choose **Create Bootable Media**.
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
@@ -126,13 +136,6 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
@@ -157,13 +160,6 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 4\. Run SFC to Check System File Integrity
 
 To utilize the System File Checker (SFC) and check system file integrity, follow these steps:
@@ -186,14 +182,11 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -245,6 +238,10 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 ## Conclusion
@@ -259,23 +256,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -306,19 +289,14 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -335,20 +313,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-convenient-methods-for-storing-webinars-windows-and-mac-solutions/"><u>[New] 2024 Approved Convenient Methods for Storing Webinars Windows & Mac Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-full-screen-recorder-azs-complete-application-review/"><u>[New] In 2024, Full Screen Recorder - AZ's Complete Application Review</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-secret-to-understanding-your-youtube-fans/"><u>[New] The Secret to Understanding Your YouTube Fans</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-giggle-guild-the-ultimate-list-of-twitter-joke-threads-for-2024/"><u>[Updated] Giggle Guild The Ultimate List of Twitter Joke Threads for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-screen-grabs-for-win-11-users/"><u>[Updated] In 2024, Quick Screen Grabs for Win 11 Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>2024 Approved Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/6l275p2plus5a2m5lmg77ya6keg6akr5ps55yplusy5qc85byp5zkm5o6n5yi25asn5bcp55qe5pwz56ilihwg5q2l6aqk5oyh5aplus8/"><u>轻松学习：视频改变格式和控制大小的教程 | 步骤指导</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/can-you-strip-drm-from-a-dvd-using-handbrake-a-step-by-step-guide/"><u>Can You Strip DRM From a DVD Using HandBrake? A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1725289414081-dvd/"><u>DVDの長持ち：保管方法と寿命分析</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/efficient-dvd-ripping-tool-platinum-winx-mp4-h264hevc-format-with-speedy-5-minute-transfer/"><u>Efficient DVD Ripping Tool: Platinum WinX MP4 H.264/HEVC Format with Speedy 5 Minute Transfer!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/exploring-magix-pixel-mastery-review/"><u>Exploring MAGIX Pixel Mastery Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/find-out-if-xbox-live-is-active-real-time-server-update/"><u>Find Out if Xbox Live Is Active – Real-Time Server Update</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ios/"><u>IOS向けオーディオコンバータアプリ評価：最新無料ソフトで、どの動画サイトからも音声取得が可能？</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastermind-knowledge-capture-via-mematics-app/"><u>Mastermind Knowledge Capture via Mematic's App</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/winx-hd-video-converter-deluxe-comprehensive-online-customer-service-and-sales-assistance/"><u>WinX HD Video Converter Deluxe: Comprehensive Online Customer Service and Sales Assistance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rime-vocal-changer-tools-for-digital-personalities/"><u>[New] Prime Vocal Changer Tools for Digital Personalities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-beginners-guide-adding-text-overlays-on-youtube/"><u>[Updated] 2024 Approved Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-ultimate-list-top-8-fb-movies-to-download-in-23/"><u>[Updated] 2024 Approved Ultimate List Top 8 FB Movies to Download in '23</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>[Updated] From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/windows-11mp4dvdand/"><u>【専用チュートリアル】Windows 11でMP4動画を安全にDVDへ書き込む完全ガイド：ファイル変換&バックアップ手順</u></a></li>
+<li><a href="https://win-data.techidaily.com/as-3-formas-mais-eficientes-de-transferir-ou-migar-o-sistema-operacional-para-um-numero-distinto-de-unidades/"><u>As 3 Formas Mais Eficientes De Transferir Ou Migar O Sistema Operacional Para Um Número Distinto De Unidades</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/comparaison-critique-avantages-et-inconvenients-de-avi-par-rapport-a-mp4-pour-les-fichiers-video/"><u>Comparaison Critique: Avantages Et Inconvénients De AVI Par Rapport À MP4 Pour Les Fichiers Vidéo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-n1320-driver-software-for-your-pc/"><u>Get the Latest HP LaserJet N1320 Driver Software for Your PC!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/get-your-free-upgrade-for-winx-dvd-ripper-platinum-with-the-latest-oem-key-how-to-install/"><u>Get Your Free Upgrade for WinX DVD Ripper Platinum with the Latest OEM Key - How to Install !</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-automata-rereplication-issue-resolved/"><u>NieR Automata ReReplication Issue Resolved</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/perfektes-klonen-ihrer-filme-mit-winx-dvd-copy-fur-windows-1187-eine-umfassende-anleitung/"><u>Perfektes Klonen Ihrer Filme Mit WinX DVD Copy Für Windows 11/8/7 - Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/simple-steps-to-seamlessly-copy-music-from-iphone-to-windowsmacos-systems/"><u>Simple Steps to Seamlessly Copy Music From iPhone to Windows/MacOS Systems</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-guide-5-free-techniques-to-shrink-your-mkv-videos-down-to-size/"><u>Ultimate Guide: 5 FREE Techniques to Shrink Your MKV Videos Down to Size</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winx-video-professionelle-bildschirmaufnahme-und-videokamera-mit-integrierter-audiotechnologie-fur-ein-optimiertes-online-erlebnis/"><u>WinX Video: Professionelle Bildschirmaufnahme Und Videokamera Mit Integrierter Audiotechnologie Für Ein Optimiertes Online-Erlebnis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Logiciels De Backup Pour S'occuper Des Servers Windows 2016 - Comparaison Et Avantages
-date: 2024-11-07T20:47:57.804Z
-updated: 2024-11-12T23:46:23.289Z
+date: 2024-11-24T02:28:35.289Z
+updated: 2024-12-01T02:20:31.876Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f993286beb6923a862b27612bc1e.jpg
@@ -27,6 +27,10 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -61,13 +65,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -80,13 +77,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -96,10 +86,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -107,22 +94,12 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -132,6 +109,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -139,6 +120,10 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -156,16 +141,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -186,6 +168,10 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -212,19 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hannel-growth-hacks-the-ultimate-list-of-5-youtube-strategies/"><u>[New] Channel Growth Hacks – The Ultimate List of 5 YouTube Strategies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-song-savers-entry-level-access/"><u>[New] In 2024, FB Song Savers Entry Level Access</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimizing-youtube-thumbnails-for-better-clickthrough-rates/"><u>[Updated] Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-parting-pleasantries-free-and-paid-outro-snippets/"><u>[Updated] Parting Pleasantries Free & Paid Outro Snippets</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/aomei-backupper-il-migliore-software-gratuita-di-backup-disco-per-windows-scopri-le-opzioni/"><u>AOMEI Backupper: Il Migliore Software Gratuita Di Backup Disco per Windows - Scopri Le Opzioni</u></a></li>
-<li><a href="https://win-best.techidaily.com/come-convertire-i-file-caf-in-mp4ogg-usando-movavi-video-editor-free-and-offline-risultati-ottimali-per-seo/"><u>Come Convertire I File CAF in MP4/OGG Usando Movavi Video Editor Free & Offline - Risultati Ottimali per SEO</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/comparaison-complet-du-logiciel-transcend-elite-et-son-equivalent-gratuit-quel-offre-une-meilleure-protection/"><u>Comparaison Complet Du Logiciel Transcend Elite Et Son Équivalent Gratuit : Quel Offre Une Meilleure Protection?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elevating-gameplay-increasing-ram-in-minecraft-for-2024/"><u>Elevating Gameplay Increasing RAM in Minecraft for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-access-secure-your-asus-ac68-driver-downloads-at-no-cost/"><u>Fast Access: Secure Your Asus AC68 Driver Downloads at No Cost</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/five-proven-methods-to-restore-your-missing-windows-10-recovery-setup/"><u>Five Proven Methods to Restore Your Missing Windows 10 Recovery Setup</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/hoe-u-kunt-de-winodlog-locatien-beheersen-in-wndows-10-top-4-afwijkingskundige-methoden/"><u>Hoe U Kunt De Winodlog Locatien Beheersen in Wndows 10: Top 4 Afwijkingskundige Methoden</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lowering-the-load-strategies-to-reduce-ums-impact-on-your-system/"><u>Lowering the Load: Strategies to Reduce UMS Impact on Your System</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/social-media-streamlining-connect-instagram-plus-facebook/"><u>Social Media Streamlining Connect Instagram + Facebook</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728497678868-usb-4/"><u>USB 卡中已删除但无法恢复的文件:4个策略</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-domain-your-playground-for-1000-titles/"><u>[New] Digital Domain Your Playground for 1,000 Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-rhythmripper-software-overview-and-testing/"><u>[New] In 2024, RhythmRipper Software Overview & Testing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-fps-in-low-speed-clips/"><u>[Updated] In 2024, Optimal FPS in Low-Speed Clips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-best-apps-for-editing-igtv-vertical-videos-for-2024/"><u>10 Best Apps for Editing IGTV Vertical Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/centro-di-sincronizzazione-in-windows-11-risolto-come-riparare-il-collegamento/"><u>Centro Di Sincronizzazione in Windows 11 Risolto – Come Riparare Il Collegamento</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/croatian-speaking-communities/"><u>Croatian Speaking Communities</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/einfach-erklarte-methoden-erstellt-und-wiederverwendet-sie-systemabbilder-mit-windows-10/"><u>Einfach Erklärte Methoden: Erstellt Und Wiederverwendet Sie Systemabbilder Mit Windows 10</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/eliminar-archivos-de-actualizacion-de-windows-11-las-4-primeras-soluciones-que-debes-probar/"><u>Eliminar Archivos De Actualización De Windows 11: Las 4 Primeras Soluciones Que Debes Probar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-11-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 11 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/protection-complet-du-sys-par-le-biais-de-backup-guide-facile-5-etapes/"><u>Protection Complet Du Sys Par Le Biais De Backup: Guide Facile 5 Étapes</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-guide-to-transferring-your-data-cloning-from-windows-881-to-a-fresh-hard-disk-or-ssd/"><u>Quick Guide to Transferring Your Data: Cloning From Windows 8/8.1 to a Fresh Hard Disk or SSD</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-chatgpt-access-issues-steps-to-correct-login-failures/"><u>Resolving ChatGPT Access Issues: Steps to Correct Login Failures</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/schnell-und-einfach-entfernen-sie-die-dropbox-sync-funktion-auf-ihrem-apple-computer/"><u>Schnell Und Einfach: Entfernen Sie Die Dropbox-Sync-Funktion Auf Ihrem Apple-Computer</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/simple-guide-setting-up-ghost-on-your-windows-pc-both-64-and-32-bit-versions/"><u>Simple Guide: Setting Up Ghost on Your Windows PC - Both 64 and 32-Bit Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-elusive-results-in-your-windows-1011-search/"><u>Uncovering Elusive Results in Your Windows 10/11 Search</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/win1011microsoft-word/"><u>Win10/11における失われたMicrosoft Wordドキュメントの回復手順</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728506935825-windows-10/"><u>Windows 10で複数ディスクバックアップ手順</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/widows-11-dism/"><u>オフラインでWidows 11を修復する - DISMツールの使い方</u></a></li>
 </ul></div>
 
