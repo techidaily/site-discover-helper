@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2024-12-04T11:15:21.789Z
-updated: 2024-12-08T18:19:10.835Z
+date: 2024-12-13T16:34:07.072Z
+updated: 2024-12-15T16:00:37.377Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,18 +80,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-exploring-the-future-together-top-vr-gear-for-2024/"><u>[New] Exploring the Future Together Top VR Gear for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-collection-of-10-inspirational-movies/"><u>[New] In 2024, The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-make-your-mark-active-living-on-facebook-for-2024/"><u>[Updated] How to Make Your Mark Active Living on Facebook for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/configuring-your-pcs-network-settings-via-control-panel-with-tips-from-yl-software-experts/"><u>Configuring Your PC's Network Settings via Control Panel with Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/expert-guide-navigating-windows-registry-management-and-analysis-using-advanced-tools-from-yl-solutions/"><u>Expert Guide: Navigating Windows Registry Management & Analysis Using Advanced Tools From YL Solutions</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/high-quality-basketball-themed-wallpapers-images-and-graphics-yl-design-solutions/"><u>High-Quality Basketball Themed Wallpapers, Images & Graphics - YL Design Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-making-online-gaming-more-intimate-via-xbox-zoom/"><u>In 2024, Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/mountain-panorama-hd-wallpapers-and-bg-pictures-high-quality-scenic-views-by-yl-computing/"><u>Mountain Panorama HD Wallpapers & Bg Pictures - High-Quality Scenic Views by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-privacy-while-searching-for-someones-phone-details-online-best-practices/"><u>Protect Your Privacy While Searching for Someone's Phone Details Online: Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-left-and-right-click-discrepancies-on-windows-11-devices/"><u>Resolving Left and Right Click Discrepancies on Windows 11 Devices</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/resolving-no-audio-output-on-your-pcs-sound-card-expert-advice-from-yl-software/"><u>Resolving No Audio Output on Your PC's Sound Card: Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/speeding-up-pc-by-reinstalling-os-does-it-work-learn-insights-with-yl-computing-and-yl-software-solutions/"><u>Speeding Up PC by Reinstalling OS: Does It Work? Learn Insights with YL Computing and YL Software Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-dota-2s-stuttering-issues/"><u>Ultimate Guide: Solving Dota 2'S Stuttering Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-simplified-guide-to-stories-mechanics/"><u>[New] 2024 Approved Simplified Guide to Stories' Mechanics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>[New] In 2024, Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-spark-viewers-attention-with-these-10-youtube-responses/"><u>[New] In 2024, Spark Viewer's Attention with These 10 YouTube Responses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfecting-your-linkedin-summary-statement-for-2024/"><u>[New] Perfecting Your LinkedIn Summary Statement for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-mystery-scriptwriting-for-documentaries-for-2024/"><u>[Updated] Unveiling the Mystery Scriptwriting for Documentaries for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo FRP</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/configuring-your-firewall-and-network-adapter-integration-expert-tips-from-yl-computing/"><u>Configuring Your Firewall and Network Adapter Integration - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effective-strategies-to-identify-and-resolve-hardware-clashes-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies to Identify & Resolve Hardware Clashes: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-address-clicking-sounds-from-your-hard-disk-insights-and-solutions-by-yl-computing/"><u>How to Address Clicking Sounds From Your Hard Disk - Insights and Solutions by YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/is-your-ethernet-port-ready-for-wireless-communication-learn-more-from-yl-system-support-guides/"><u>Is Your Ethernet Port Ready for Wireless Communication? Learn More From YL System Support Guides</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/monthly-wallpaper-showcase-for-april-2020-by-yl-design-team-your-personalized-calendar/"><u>Monthly Wallpaper Showcase for April 2020 by YL Design Team: Your Personalized Calendar</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/navigating-child-safety-with-windows-11-expert-tips-for-setting-up-parental-controls-by-yl-software/"><u>Navigating Child Safety with Windows 11: Expert Tips for Setting Up Parental Controls by YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/setting-up-network-options-through-control-panel-tips-and-tricks-from-yl-software/"><u>Setting Up Network Options Through Control Panel: Tips and Tricks From YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-z-flip-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy Z Flip 5 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/understanding-the-reasons-behind-your-disc-drives-failure-to-recognize-cdsdvds-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Disc Drive's Failure to Recognize CDs/DVDs - Insights From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-a2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi A2 Phone Network-Ready</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-software-walkthrough-creating-and-securing-your-digital-currency-account/"><u>YL Software Walkthrough: Creating and Securing Your Digital Currency Account</u></a></li>
 </ul></div>
 
