@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2024-12-13T16:34:07.072Z
-updated: 2024-12-15T16:00:37.377Z
+date: 2024-12-22T18:52:49.526Z
+updated: 2024-12-23T18:42:39.447Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-simplified-guide-to-stories-mechanics/"><u>[New] 2024 Approved Simplified Guide to Stories' Mechanics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>[New] In 2024, Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-spark-viewers-attention-with-these-10-youtube-responses/"><u>[New] In 2024, Spark Viewer's Attention with These 10 YouTube Responses</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-perfecting-your-linkedin-summary-statement-for-2024/"><u>[New] Perfecting Your LinkedIn Summary Statement for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-mystery-scriptwriting-for-documentaries-for-2024/"><u>[Updated] Unveiling the Mystery Scriptwriting for Documentaries for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo FRP</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/configuring-your-firewall-and-network-adapter-integration-expert-tips-from-yl-computing/"><u>Configuring Your Firewall and Network Adapter Integration - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effective-strategies-to-identify-and-resolve-hardware-clashes-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies to Identify & Resolve Hardware Clashes: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-address-clicking-sounds-from-your-hard-disk-insights-and-solutions-by-yl-computing/"><u>How to Address Clicking Sounds From Your Hard Disk - Insights and Solutions by YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/is-your-ethernet-port-ready-for-wireless-communication-learn-more-from-yl-system-support-guides/"><u>Is Your Ethernet Port Ready for Wireless Communication? Learn More From YL System Support Guides</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/monthly-wallpaper-showcase-for-april-2020-by-yl-design-team-your-personalized-calendar/"><u>Monthly Wallpaper Showcase for April 2020 by YL Design Team: Your Personalized Calendar</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/navigating-child-safety-with-windows-11-expert-tips-for-setting-up-parental-controls-by-yl-software/"><u>Navigating Child Safety with Windows 11: Expert Tips for Setting Up Parental Controls by YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/setting-up-network-options-through-control-panel-tips-and-tricks-from-yl-software/"><u>Setting Up Network Options Through Control Panel: Tips and Tricks From YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-z-flip-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy Z Flip 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/understanding-the-reasons-behind-your-disc-drives-failure-to-recognize-cdsdvds-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Disc Drive's Failure to Recognize CDs/DVDs - Insights From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-a2-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi A2 Phone Network-Ready</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/yl-software-walkthrough-creating-and-securing-your-digital-currency-account/"><u>YL Software Walkthrough: Creating and Securing Your Digital Currency Account</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-the-secrets-to-successful-360-streaming-on-fb/"><u>[New] 2024 Approved Unlocking the Secrets to Successful 360 Streaming on FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-verdict-on-actives-place-among-best-recorders/"><u>[Updated] The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[Updated] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixology-mastery-showcase/"><u>ChatGPT's Mixology Mastery Showcase</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-effective-methods-to-get-your-iphones-standby-feature-up-and-running-again/"><u>Four Effective Methods to Get Your iPhone's Standby Feature Up and Running Again</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/getting-your-printer-up-and-running-again-expert-advice-by-yl-software/"><u>Getting Your Printer Up and Running Again: Expert Advice by YL Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-memorable-content-with-personalized-gifs/"><u>In 2024, Crafting Memorable Content with Personalized GIFS</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/monitoring-gpu-memory-utilization-a-step-by-step-guide-tech-insights-with-yl-computing/"><u>Monitoring GPU Memory Utilization: A Step-by-Step Guide - Tech Insights with YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/stunning-visual-journey-through-japan-unique-wallpaper-image-and-photo-set-by-yl-software-technologies/"><u>Stunning Visual Journey Through Japan: Unique Wallpaper, Image and Photo Set by YL Software Technologies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-fix-for-when-your-pc-wont-cooperate-with-pubg-a-users-survival-tips/"><u>The Fix for When Your PC Won’t Cooperate with PUBG – A User's Survival Tips</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-hard-disk-errors-made-easy-by-yl-software-professionals/"><u>Troubleshooting Hard Disk Errors Made Easy by YL Software Professionals</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/why-wont-my-printer-print-discover-solutions-at-yl-computing/"><u>Why Won't My Printer Print? Discover Solutions at YL Computing</u></a></li>
 </ul></div>
 
