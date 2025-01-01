@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2024-12-22T18:52:49.526Z
-updated: 2024-12-23T18:42:39.447Z
+date: 2024-12-23T03:45:03.465Z
+updated: 2024-12-30T04:55:18.597Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,17 +80,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-the-secrets-to-successful-360-streaming-on-fb/"><u>[New] 2024 Approved Unlocking the Secrets to Successful 360 Streaming on FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-verdict-on-actives-place-among-best-recorders/"><u>[Updated] The Verdict on Active's Place Among Best Recorders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[Updated] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixology-mastery-showcase/"><u>ChatGPT's Mixology Mastery Showcase</u></a></li>
-<li><a href="https://fox-that.techidaily.com/four-effective-methods-to-get-your-iphones-standby-feature-up-and-running-again/"><u>Four Effective Methods to Get Your iPhone's Standby Feature Up and Running Again</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/getting-your-printer-up-and-running-again-expert-advice-by-yl-software/"><u>Getting Your Printer Up and Running Again: Expert Advice by YL Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-memorable-content-with-personalized-gifs/"><u>In 2024, Crafting Memorable Content with Personalized GIFS</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/monitoring-gpu-memory-utilization-a-step-by-step-guide-tech-insights-with-yl-computing/"><u>Monitoring GPU Memory Utilization: A Step-by-Step Guide - Tech Insights with YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/stunning-visual-journey-through-japan-unique-wallpaper-image-and-photo-set-by-yl-software-technologies/"><u>Stunning Visual Journey Through Japan: Unique Wallpaper, Image and Photo Set by YL Software Technologies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-fix-for-when-your-pc-wont-cooperate-with-pubg-a-users-survival-tips/"><u>The Fix for When Your PC Won’t Cooperate with PUBG – A User's Survival Tips</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/troubleshooting-hard-disk-errors-made-easy-by-yl-software-professionals/"><u>Troubleshooting Hard Disk Errors Made Easy by YL Software Professionals</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/why-wont-my-printer-print-discover-solutions-at-yl-computing/"><u>Why Won't My Printer Print? Discover Solutions at YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-film-editing-final-cut-pro-101/"><u>[New] In 2024, Perfecting Film Editing Final Cut Pro 101</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-integrating-obs-for-youtube-and-twitch-streaming-for-2024/"><u>[New] Integrating OBS for YouTube & Twitch Streaming for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-get-your-hands-on-the-best-9-online-shops-featuring-futuristic-graffiti-fonts/"><u>2024 Approved Get Your Hands on the Best 9 Online Shops Featuring Futuristic Graffiti Fonts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/choosing-trustworthy-crypto-exchanges-a-comprehensive-guide-by-yl-computing/"><u>Choosing Trustworthy Crypto Exchanges: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digitally-chronicled-tweets-of-the-year-so-far-for-2024/"><u>Digitally Chronicled Tweets of the Year So Far for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/foreground-emphasis-tips-for-logitech-video-recordings-for-2024/"><u>Foreground Emphasis Tips for Logitech Video Recordings for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-to-switch-off-your-windows-11-internet-wireless-settings-tips-from-yl-software-solutions/"><u>Guide to Switch Off Your Windows #11 Internet Wireless Settings - Tips From YL Software Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-gameplay-snag-a-discounted-lenovo-legion-laptop-packing-rtx-cu-and-rapid-refresh-at-240-hz/"><u>Maximize Your Gameplay: Snag a Discounted Lenovo Legion Laptop Packing RTX Cu and Rapid Refresh at 240 Hz</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-strategies-for-effective-hardware-problem-solving-expert-insights-from-yl-computing/"><u>Top Strategies for Effective Hardware Problem Solving: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-guide-fixes-for-common-gpu-issues-on-yl-software-platform/"><u>Troubleshooting Guide: Fixes for Common GPU Issues on YL Software Platform</u></a></li>
 </ul></div>
 

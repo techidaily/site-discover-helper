@@ -1,7 +1,7 @@
 ---
 title: "Create a Secure Backup of Windows Server 2012 on a USB Stick: A Comprehensive Guide"
-date: 2024-12-18T10:15:22.913Z
-updated: 2024-12-24T10:17:10.407Z
+date: 2024-12-25T23:46:44.071Z
+updated: 2024-12-30T02:02:17.211Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a720808faf7dee8c99a861a3.jpg
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
@@ -27,6 +31,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -50,7 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -69,16 +77,12 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -98,6 +102,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -135,6 +143,10 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -148,6 +160,10 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -195,10 +211,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -220,10 +232,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -255,15 +263,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,22 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-peak-video-clarity-with-youtubes-tools/"><u>[New] 2024 Approved Achieving Peak Video Clarity with YouTube's Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-hue-harmonies-crafting-visual-balance-for-2024/"><u>[New] Hue Harmonies Crafting Visual Balance for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>[Updated] Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-most-effective-key-retrieval-systems-a-comprehensive-guide/"><u>2024'S Most Effective Key Retrieval Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aerial-imaging-face-off-dji-fpv-vs-gopro-max-x-for-2024/"><u>Aerial Imaging Face-Off DJi FPV vs GoPro Max X for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/choosing-trustworthy-crypto-exchanges-a-comprehensive-guide-by-yl-computing/"><u>Choosing Trustworthy Crypto Exchanges: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/fix-your-malfunctioning-dvd-hardware-easily-with-our-expert-advice-at-yl-software/"><u>Fix Your Malfunctioning DVD Hardware Easily With Our Expert Advice at YL Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-can-you-optimize-your-audio-configurations-for-superior-sound-performance-with-yl-software/"><u>How Can You Optimize Your Audio Configurations for Superior Sound Performance with YL Software?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-add-hard-drive-on-windows-11-simple-steps-for-more-storage/"><u>How to Add Hard Drive on Windows 11: Simple Steps for More Storage!</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-effortlessly-replace-ink-or-toner-in-any-printer-expert-advice-from-yl-computing/"><u>How to Effortlessly Replace Ink or Toner in Any Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-p40plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel P40+ Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamline-your-meetings-with-these-tools/"><u>In 2024, Streamline Your Meetings with These Tools</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/securing-your-crypto-wallet-a-guide-to-implementing-two-factor-authentication-with-yl-computing-solutions/"><u>Securing Your Crypto Wallet: A Guide to Implementing Two-Factor Authentication with YL Computing Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-smoothly-fading-audio-within-lumafusion-for-2024/"><u>Techniques for Smoothly Fading Audio Within Lumafusion for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-strategies-for-effective-hardware-problem-solving-expert-insights-from-yl-computing/"><u>Top Strategies for Effective Hardware Problem Solving: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/troubleshooting-guide-fixes-for-common-gpu-issues-on-yl-software-platform/"><u>Troubleshooting Guide: Fixes for Common GPU Issues on YL Software Platform</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-troubleshooting-tweaking-screen-resolution-on-windows-groovy-unlock-the-secrets-with-yl-computings-easy-solutions/"><u>Ultimate Troubleshooting: Tweaking Screen Resolution on Windows Groovy? Unlock the Secrets with YL Computing's Easy Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dispelling-darkness-enhancing-youtube-views/"><u>[New] Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-retro-facebook-stories-pcmobile-guide/"><u>[New] In 2024, Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-windows-11-mov-to-avi-conversion-tutorial/"><u>[New] In 2024, Windows 11 MOV to AVI Conversion Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals-for-2024/"><u>[Updated] Essential Approach for Blending GoPro Vids with Continuous 360-Degree Visuals for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[Updated] In 2024, Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-infinite-storage-pathways-select-services-showcase-for-2024/"><u>[Updated] Infinite Storage Pathways Select Services Showcase for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-complete-guide-eradicating-malware-from-your-windows-pc-with-ease-yl-tech-solutions/"><u>1. Complete Guide: Eradicating Malware From Your Windows PC with Ease - YL Tech Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-hevc-codec-software-compatible-with-windows-11-watch-ultrahd-videos-free/"><u>Best HEVC Codec Software Compatible with Windows 11: Watch UltraHD Videos FREE!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/explore-the-creative-imagery-of-ben-stockons-works-with-movavi-gallery/"><u>Explore the Creative Imagery of Ben Stockon's Works with Movavi Gallery</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/exploring-extra-protection-what-more-can-you-get-with-windows-defender-by-yl-computing/"><u>Exploring Extra Protection: What More Can You Get with Windows Defender by YL Computing?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/identifying-reasons-behind-sudden-system-closures-an-insight-from-yl-computing-and-yl-software/"><u>Identifying Reasons Behind Sudden System Closures: An Insight From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/risks-and-benefits-leveraging-windows-system-restore-for-file-restoration-guidance-from-yl-software-experts/"><u>Risks and Benefits: Leveraging Windows System Restore for File Restoration - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/what-are-yl-softwares-recommended-troubleshooting-techniques-to-correct-scanner-malfunctions/"><u>What Are YL Software's Recommended Troubleshooting Techniques to Correct Scanner Malfunctions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808315510-windows-11-black-and-white-screen-issue-solved/"><u>Windows 11 Black & White Screen Issue – Solved</u></a></li>
 </ul></div>
 
