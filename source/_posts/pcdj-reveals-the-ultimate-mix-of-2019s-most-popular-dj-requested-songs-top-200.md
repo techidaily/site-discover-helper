@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2024-12-30T17:52:05.126Z
-updated: 2025-01-01T23:46:43.936Z
+date: 2025-01-06T00:21:34.187Z
+updated: 2025-01-09T03:10:16.542Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-capture-the-world-from-your-mobile-height/"><u>[New] Capture the World From Your Mobile Height</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-watching-basketball-with-precision/"><u>[Updated] 2024 Approved The Ultimate Guide Watching Basketball with Precision</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-choosing-the-right-fps-30-or-60-which-is-better/"><u>[Updated] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/windows-section-1-advanced-problem-on-sweep-frequency-generation/"><u>重要技巧：拯救和回魂Windows # Section 1: Advanced Problem on Sweep Frequency Generation</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/comment-recuperer-un-document-microsoft-word-perdu-sous-windows-guide-pratique/"><u>Comment Récupérer Un Document Microsoft Word Perdu Sous Windows - Guide Pratique</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-latest-travel-essential-magsafes-triple-threat-charger-compatible-with-qi2-now-a-top-pick/"><u>Discover the Latest Travel Essential: MagSafe's Triple Threat Charger Compatible with Qi2, Now a Top Pick !</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-0x80240034-update-issue-in-your-windows-10-system/"><u>Expert Tips for Fixing the 0X80240034 Update Issue in Your Windows 10 System</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-fixing-minecraft-game-crashes-with-this-handy-6-step-tutorial/"><u>Master the Art of Fixing Minecraft Game Crashes with This Handy 6-Step Tutorial</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/overcoming-windows-servers-login-screen-dilemma-a-guide-to-thrity-troubleshooting-techniques/"><u>Overcoming Windows Server's Login Screen Dilemma: A Guide to Thrity Troubleshooting Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208166427-tackling-windows-10s-troublesome-error-code-0x80072fed-proven-fixes-inside/"><u>Tackling Windows 10'S Troublesome Error Code 0X80072FED - Proven Fixes Inside</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1693671-9780857011626-the-meditation-book-of-light-and-colour/"><u>The Meditation Book of Light and Colour | Free Book</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/understanding-the-functions-of-a-vcenter-server-appliance-steps-to-verify-service-status/"><u>Understanding the Functions of a vCenter Server Appliance: Steps to Verify Service Status</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-advanced-conversations-with-nvidias-latest-free-ai-chatbot-tailored-for-your-pc-zdnet-insights/"><u>Unlock Advanced Conversations with Nvidia's Latest Free AI Chatbot, Tailored for Your PC | ZDNET Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-spark-go-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Spark Go (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/update-now-activate-protection-features-for-data-encryption-in-windows-11-previously-greyed-out/"><u>Update Now: Activate Protection Features for Data Encryption in Windows 11 (Previously Greyed Out)</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/vmware-vsphere-troubleshooting-guide-addressing-the-permission-denied-during-operations-scenario/"><u>VMware vSphere Troubleshooting Guide: Addressing the Permission Denied During Operations Scenario</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/what-to-do-if-your-eligible-computer-fails-to-start-with-the-newest-operating-system-windows-11/"><u>What To Do If Your Eligible Computer Fails to Start With The Newest Operating System, Windows 11</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728495139668-sd/"><u>ストレージ修復ガイド: SDカードの損傷により失われた画像や写真を回収方法</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728477569333-m2-ssd/"><u>スピーディM.2 SSDバックアップ手順解説 - トップレベルソフトウェア使い方ガイド</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-overhauen-uncovering-hidden-shorts-content/"><u>[New] 2024 Approved Overhauen Uncovering Hidden Shorts Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/conomical-growth-methodology-subscribe-now-for-2024/"><u>[New] Economical Growth Methodology - Subscribe Now for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-techniques-for-enlarging-content-on-youtube-platform/"><u>[New] In 2024, Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[Updated] 2024 Approved Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blackout-brilliance-minute-edition/"><u>[Updated] Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726026806806-dvddvd/"><u>「パソコン」用外付けDVDプレーヤーでDVDを見られないときの解決法</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-ultimate-guide-simplifying-your-m2ts-file-conversion-process/"><u>1. Ultimate Guide: Simplifying Your M2TS File Conversion Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-transforming-your-wmv-files-into-compatible-avi-format/"><u>Easy Guide: Transforming Your WMV Files Into Compatible AVI Format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-samsung-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Samsung ’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-playground-awaits-in-youtubes-latest-minigames-tests/"><u>Interactive Playground Awaits in YouTube's Latest Minigames Tests</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027240197-ipad/"><u>IPad対応動画の作成方法：ビデオフォーマット説明</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nonewchatgpt-anticipated-reopening-timeframe/"><u>NoNewChatGPT: Anticipated Reopening Timeframe</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-guide-to-top-ranked-aiff-converters-seamlessly-switch-between-aiff-and-popular-audio-formats/"><u>Ultimate Guide to Top-Ranked AIFF Converters - Seamlessly Switch Between AIFF and Popular Audio Formats</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-tutorial-installing-snappea-application-on-a-personal-desktop-system/"><u>Ultimate Tutorial: Installing Snappea Application on a Personal Desktop System</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/understanding-how-to-rip-audio-files-from-your-compact-discs/"><u>Understanding How to Rip Audio Files From Your Compact Discs</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unveiling-distinctions-a-comprehensive-guide-on-converting-ogg-and-flac-audio-files/"><u>Unveiling Distinctions: A Comprehensive Guide on Converting OGG & FLAC Audio Files</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/windows-11-2-windows-11/"><u>Windows 11におけるオーディオ編集手順と利用可能なアプリケーション - 2. 音声加工ツール：Windows 11で使える最新ソフトウェアの紹介</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726026953605-3/"><u>ビデオ圧縮に必要なコーデックとは？3つの重要なポイント</u></a></li>
 </ul></div>
 

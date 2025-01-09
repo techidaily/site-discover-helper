@@ -1,7 +1,7 @@
 ---
 title: Solution De Problèmes Avec Un Disque Dur Externe Incompatible Sous Windows 10 - Des Mises À Jour Pour Les Sept Corrections
-date: 2024-12-25T17:17:13.021Z
-updated: 2024-12-30T04:02:34.727Z
+date: 2025-01-05T23:19:51.296Z
+updated: 2025-01-09T08:53:08.039Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebea6985dfc0c6d939ebdaa395.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -44,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -54,7 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -73,17 +77,9 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -102,6 +98,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -179,6 +179,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -234,7 +238,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -247,6 +251,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -255,15 +263,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-9-free-youtube-logo-makers/"><u>[New] In 2024, Top 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] In 2024, Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>2024 Approved Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/efficiently-expand-your-icloud-limits-strategies-for-deleting-unwanted-data-and-obtaining-more-free-space/"><u>Efficiently Expand Your iCloud Limits: Strategies for Deleting Unwanted Data and Obtaining More Free Space</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effortless-gopro-video-editing-step-by-step-tutorials-for-all-devices/"><u>Effortless GoPro Video Editing: Step-by-Step Tutorials for All Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhanced-mobile-management-why-keeping-usb-debug-mode-on-is-essential-for-android-users/"><u>Enhanced Mobile Management: Why Keeping USB Debug Mode On Is Essential for Android Users</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/free-macdvd-ripper-convert-your-dvds-into-itunes-compatible-files-on-mac/"><u>Free MacDVD Ripper: Convert Your DVDs Into iTunes-Compatible Files on Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-gt-5-240w-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme GT 5 (240W) to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-fix-itunes-failing-to-detect-or-connect-with-your-iphone/"><u>How to Fix iTunes Failing to Detect or Connect with Your iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-13-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 13 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-depth-guide-to-optimizing-photos-using-polarr/"><u>In-Depth Guide to Optimizing Photos Using Polarr</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-mass-effect-obtain-all-elite-gear-and-game-changing-weapons/"><u>Master Mass Effect: Obtain All Elite Gear and Game-Changing Weapons</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/musik-von-youtube-herunterladen-kostenlos-unter-verschiedenen-betriebssystemen-wie-windows-10-8-7-und-macos/"><u>Musik Von YouTube Herunterladen Kostenlos Unter Verschiedenen Betriebssystemen Wie Windows 10, 8, 7 Und macOS</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/quick-and-easy-video-subtitle-tutorial-using-imovie/"><u>Quick and Easy Video Subtitle Tutorial Using iMovie</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-ps4-favorites-on-the-new-ps5-console-can-you-do-it/"><u>Reviving Your PS4 Favorites on the New PS5 Console – Can You Do It?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/sketch-funny-graphics-to-share-giphy-wide/"><u>Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/toothpaste-wont-fix-your-skip-along-dvd-learn-effective-alternatives-for-optimal-playback/"><u>Toothpaste Won't Fix Your Skip-Along DVD: Learn Effective Alternatives for Optimal Playback</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-15-reliable-and-secure-free-downloads-apps-for-mac-in-2nd4/"><u>Top 15 Reliable and Secure Free Downloads Apps for Mac in 2nD4</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/transform-your-videos-discover-digiartys-expertise-in-dvd-and-digital-media-conversion-services/"><u>Transform Your Videos: Discover Digiarty's Expertise in DVD and Digital Media Conversion Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-display-selections-10-mac-list/"><u>[New] 2024 Approved Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-mcb-theme-images-templates-and-more/"><u>[New] In 2024, Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-mastering-cross-platform-video-calls-using-facetime-on-your-pc/"><u>1. Mastering Cross-Platform Video Calls: Using FaceTime on Your PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-views-on-tiktok-unboxing-content/"><u>2024 Approved Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-metaverse-multiverse-dichotomy-explained/"><u>2024 Approved The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/diagnosing-scanner-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Scanner Issues: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-analysis-the-leading-mac-screenshots-and-recorders-ranked-for-2024/"><u>Expert Analysis The Leading Mac Screenshots & Recorders Ranked for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/exploring-ram-breakdowns-a-deep-dive-with-yl-software-experts/"><u>Exploring RAM Breakdowns: A Deep Dive with YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humorhub-imagery-mememagic-inc/"><u>HumorHub Imagery MemeMagic Inc</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/is-distant-graphic-card-diagnosis-feasible-exploring-yl-softwares-approach-to-remote-error-identification/"><u>Is Distant Graphic Card Diagnosis Feasible? Exploring YL Software's Approach to Remote Error Identification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-seamless-blend-of-images-into-majestic-collage-art-for-2024/"><u>The Seamless Blend of Images Into Majestic Collage Art for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-strategies-for-diagnosing-and-fixing-windows-graphic-card-problems-expert-advice-from-yl-computing/"><u>Top Strategies for Diagnosing and Fixing Windows Graphic Card Problems - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unlocking-windows-11s-latest-enhancements-a-step-by-step-guide/"><u>Unlocking Windows 11'S Latest Enhancements: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-computing-reveals-is-using-encrypted-cryptocurrency-address-balance-trackers-complimentary/"><u>YL Computing Reveals: Is Using Encrypted Cryptocurrency Address Balance Trackers Complimentary?</u></a></li>
 </ul></div>
 
