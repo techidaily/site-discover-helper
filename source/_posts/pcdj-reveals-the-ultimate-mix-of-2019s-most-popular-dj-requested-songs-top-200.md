@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2025-01-06T00:21:34.187Z
-updated: 2025-01-09T03:10:16.542Z
+date: 2025-01-08T01:15:15.189Z
+updated: 2025-01-15T04:04:55.485Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,24 +80,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-overhauen-uncovering-hidden-shorts-content/"><u>[New] 2024 Approved Overhauen Uncovering Hidden Shorts Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/conomical-growth-methodology-subscribe-now-for-2024/"><u>[New] Economical Growth Methodology - Subscribe Now for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-techniques-for-enlarging-content-on-youtube-platform/"><u>[New] In 2024, Techniques for Enlarging Content on YouTube Platform</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[Updated] 2024 Approved Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-blackout-brilliance-minute-edition/"><u>[Updated] Blackout Brilliance Minute Edition</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726026806806-dvddvd/"><u>「パソコン」用外付けDVDプレーヤーでDVDを見られないときの解決法</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1-ultimate-guide-simplifying-your-m2ts-file-conversion-process/"><u>1. Ultimate Guide: Simplifying Your M2TS File Conversion Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-guide-transforming-your-wmv-files-into-compatible-avi-format/"><u>Easy Guide: Transforming Your WMV Files Into Compatible AVI Format</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-samsung-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Samsung ’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-playground-awaits-in-youtubes-latest-minigames-tests/"><u>Interactive Playground Awaits in YouTube's Latest Minigames Tests</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726027240197-ipad/"><u>IPad対応動画の作成方法：ビデオフォーマット説明</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nonewchatgpt-anticipated-reopening-timeframe/"><u>NoNewChatGPT: Anticipated Reopening Timeframe</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-guide-to-top-ranked-aiff-converters-seamlessly-switch-between-aiff-and-popular-audio-formats/"><u>Ultimate Guide to Top-Ranked AIFF Converters - Seamlessly Switch Between AIFF and Popular Audio Formats</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-tutorial-installing-snappea-application-on-a-personal-desktop-system/"><u>Ultimate Tutorial: Installing Snappea Application on a Personal Desktop System</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/understanding-how-to-rip-audio-files-from-your-compact-discs/"><u>Understanding How to Rip Audio Files From Your Compact Discs</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/unveiling-distinctions-a-comprehensive-guide-on-converting-ogg-and-flac-audio-files/"><u>Unveiling Distinctions: A Comprehensive Guide on Converting OGG & FLAC Audio Files</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/windows-11-2-windows-11/"><u>Windows 11におけるオーディオ編集手順と利用可能なアプリケーション - 2. 音声加工ツール：Windows 11で使える最新ソフトウェアの紹介</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1726026953605-3/"><u>ビデオ圧縮に必要なコーデックとは？3つの重要なポイント</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>[Updated] 2024 Approved Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-30-best-freefire-tagshashtags-for-youtube/"><u>2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effective-strategies-to-identify-and-resolve-hardware-clashes-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies to Identify & Resolve Hardware Clashes: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-address-clicking-sounds-from-your-hard-disk-insights-and-solutions-by-yl-computing/"><u>How to Address Clicking Sounds From Your Hard Disk - Insights and Solutions by YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-after-effects-applications-crashes-in-windows-1110-environments/"><u>How to Fix Persistent After Effects Applications Crashes in Windows 11/10 Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lenovo-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lenovo Phone Hassle-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-windows-11-update-24h2-compatible-with-your-system-detailed-insights/"><u>Is Windows 11 Update 24H2 Compatible with Your System? Detailed Insights</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/is-your-ethernet-port-ready-for-wireless-communication-learn-more-from-yl-system-support-guides/"><u>Is Your Ethernet Port Ready for Wireless Communication? Learn More From YL System Support Guides</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mobile-markup-mastery-iosandroid-leaders-for-2024/"><u>Mobile Markup Mastery IOS/Android Leaders for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/monthly-wallpaper-showcase-for-april-2020-by-yl-design-team-your-personalized-calendar/"><u>Monthly Wallpaper Showcase for April 2020 by YL Design Team: Your Personalized Calendar</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/navigating-child-safety-with-windows-11-expert-tips-for-setting-up-parental-controls-by-yl-software/"><u>Navigating Child Safety with Windows 11: Expert Tips for Setting Up Parental Controls by YL Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/understanding-the-reasons-behind-your-disc-drives-failure-to-recognize-cdsdvds-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Disc Drive's Failure to Recognize CDs/DVDs - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-software-walkthrough-creating-and-securing-your-digital-currency-account/"><u>YL Software Walkthrough: Creating and Securing Your Digital Currency Account</u></a></li>
 </ul></div>
 
