@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2025-01-08T01:15:15.189Z
-updated: 2025-01-15T04:04:55.485Z
+date: 2025-01-14T01:47:27.581Z
+updated: 2025-01-20T21:36:20.759Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,20 +80,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>[Updated] 2024 Approved Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-30-best-freefire-tagshashtags-for-youtube/"><u>2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/effective-strategies-to-identify-and-resolve-hardware-clashes-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies to Identify & Resolve Hardware Clashes: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/how-to-address-clicking-sounds-from-your-hard-disk-insights-and-solutions-by-yl-computing/"><u>How to Address Clicking Sounds From Your Hard Disk - Insights and Solutions by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-after-effects-applications-crashes-in-windows-1110-environments/"><u>How to Fix Persistent After Effects Applications Crashes in Windows 11/10 Environments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lenovo-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lenovo Phone Hassle-Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-windows-11-update-24h2-compatible-with-your-system-detailed-insights/"><u>Is Windows 11 Update 24H2 Compatible with Your System? Detailed Insights</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/is-your-ethernet-port-ready-for-wireless-communication-learn-more-from-yl-system-support-guides/"><u>Is Your Ethernet Port Ready for Wireless Communication? Learn More From YL System Support Guides</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mobile-markup-mastery-iosandroid-leaders-for-2024/"><u>Mobile Markup Mastery IOS/Android Leaders for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/monthly-wallpaper-showcase-for-april-2020-by-yl-design-team-your-personalized-calendar/"><u>Monthly Wallpaper Showcase for April 2020 by YL Design Team: Your Personalized Calendar</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/navigating-child-safety-with-windows-11-expert-tips-for-setting-up-parental-controls-by-yl-software/"><u>Navigating Child Safety with Windows 11: Expert Tips for Setting Up Parental Controls by YL Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/understanding-the-reasons-behind-your-disc-drives-failure-to-recognize-cdsdvds-insights-from-yl-computing/"><u>Understanding the Reasons Behind Your Disc Drive's Failure to Recognize CDs/DVDs - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/yl-software-walkthrough-creating-and-securing-your-digital-currency-account/"><u>YL Software Walkthrough: Creating and Securing Your Digital Currency Account</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-windows-1011-hdd-ssd/"><u>1. Windows 10/11 ドライブの分割画像を新しい HDD/ SSDへ移行する手順</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>2024 Approved Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-x6-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find X6 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728463378102-aomei-backupper/"><u>關於如何利用AOMEI Backupper實現有效的增量與差異式儲存夥伴：一站式解決方案</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-methods-to-prevent-photos-app-freezes-in-windows-10/"><u>In 2024, Proven Methods to Prevent Photos App Freezes in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004619615-red-dead-redemption-2-performance-optimized-no-more-lag-or-drops/"><u>Red Dead Redemption 2 Performance Optimized - No More Lag or Drops!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/resolving-issues-with-unresponsive-hardware-connected-to-your-computer/"><u>Resolving Issues with Unresponsive Hardware Connected to Your Computer</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-downloading-and-applying-dell-updates-in-windows-1110/"><u>Step-by-Step Tutorial: Downloading and Applying Dell Updates in Windows 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-newly-reviewed-kobo-forma-where-reading-is-not-just-leisure-but-a-priority/"><u>The Ultimate Guide to the Newly Reviewed Kobo Forma – Where Reading Is Not Just Leisure, But a Priority</u></a></li>
 </ul></div>
 
