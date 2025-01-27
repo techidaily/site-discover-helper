@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2025-01-14T01:47:27.581Z
-updated: 2025-01-20T21:36:20.759Z
+date: 2025-01-22T13:01:33.506Z
+updated: 2025-01-26T22:55:33.912Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,14 +80,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-helper.techidaily.com/1-windows-1011-hdd-ssd/"><u>1. Windows 10/11 ドライブの分割画像を新しい HDD/ SSDへ移行する手順</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>2024 Approved Harness Your Footage Potential with Vimeo Record</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-x6-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find X6 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728463378102-aomei-backupper/"><u>關於如何利用AOMEI Backupper實現有效的增量與差異式儲存夥伴：一站式解決方案</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-methods-to-prevent-photos-app-freezes-in-windows-10/"><u>In 2024, Proven Methods to Prevent Photos App Freezes in Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723004619615-red-dead-redemption-2-performance-optimized-no-more-lag-or-drops/"><u>Red Dead Redemption 2 Performance Optimized - No More Lag or Drops!</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/resolving-issues-with-unresponsive-hardware-connected-to-your-computer/"><u>Resolving Issues with Unresponsive Hardware Connected to Your Computer</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-downloading-and-applying-dell-updates-in-windows-1110/"><u>Step-by-Step Tutorial: Downloading and Applying Dell Updates in Windows 11/10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-newly-reviewed-kobo-forma-where-reading-is-not-just-leisure-but-a-priority/"><u>The Ultimate Guide to the Newly Reviewed Kobo Forma – Where Reading Is Not Just Leisure, But a Priority</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-podcast-world-with-your-iphone/"><u>[Updated] Navigating Podcast World with Your iPhone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/3-captivating-techniques-for-creating-heartfelt-romance-videos/"><u>3 Captivating Techniques for Creating Heartfelt Romance Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726029496795-gif/"><u>初学者向け: ひとつの写真を基にGIFを生成する手順ガイド</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027426157-vlc/"><u>簡単なステップでVLC用音声録音マニュアル</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726028510665-windows-78/"><u>最新音声記録 - Windows 7/8の利用者向けガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/converting-video-formats-effortlessly-how-to-change-mov-to-lossless-flac-soundtracks/"><u>Converting Video Formats Effortlessly - How to Change MOV to Lossless FLAC Soundtracks</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/free-online-file-converter-w64-by-movavi-easy-and-fast/"><u>Free Online File Converter W64 by Movavi - Easy and Fast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862796251-gamers-dream-deal-capture-every-detail-with-the-incredible-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-199/"><u>Gamer's Dream Deal – Capture Every Detail with the Incredible Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at $199!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-11-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 11 5G</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027124023-otobanana/"><u>OTOBANANAのオーディオクリップが簡単に取得できる最適な方法</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/resolving-sony-ps4-safe-mode-issues-a-guide-to-protect-your-game-progress/"><u>Resolving Sony PS4 Safe Mode Issues: A Guide to Protect Your Game Progress</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-overcoming-windows-11-shutdown-problems/"><u>Solutions: Overcoming Windows 11 Shutdown Problems</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/44kt44oj44ox44ob44oj44oe44o844or44ks5l244gj44gf5yuv55s7lplusmfspluswjsoocueodioodquodvoodnplusodsplusocsommsueuuplusobruawueazlq/"><u>キャプチャツールを使った動画/音声ストリーミング録画の方法</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027707409-twitch/"><u>スムーズにブラウザーでTwitch動画を保存する究極ガイド</u></a></li>
 </ul></div>
 
