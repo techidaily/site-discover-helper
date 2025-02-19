@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2025-02-04T04:03:39.501Z
-updated: 2025-02-09T00:36:21.024Z
+date: 2025-02-12T16:28:27.221Z
+updated: 2025-02-19T04:58:02.169Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
@@ -58,7 +58,7 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -80,19 +80,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-8-linux-friendly-video-cutters/"><u>[New] 2024 Approved Top 8 Linux-Friendly Video Cutters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[New] In 2024, Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-superior-websites-for-a-modern-social-experience/"><u>[New] Superior Websites for a Modern Social Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-joy-con-communication-breakdown-with-switch-device/"><u>Addressing Joy-Con Communication Breakdown with Switch Device</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/adequate-security-can-windows-defender-single-handedly-shield-you-from-malware/"><u>Adequate Security: Can Windows Defender Single-Handedly Shield You From Malware?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/express-creativity-for-free-your-meme-toolbox-awaits-for-2024/"><u>Express Creativity for Free – Your Meme Toolbox Awaits for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-6-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 6 Plus Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quintessential-accessories-list-for-sj4000-lovers/"><u>In 2024, The Quintessential Accessories List for SJ4000 Lovers</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/resolving-scanner-issues-following-a-recent-windows-update-solutions-provided-by-yl-computing-software-experts/"><u>Resolving Scanner Issues Following a Recent Windows Update - Solutions Provided by YL Computing Software Experts</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/solve-your-pcs-physical-issues-in-windows-like-a-pro-insights-by-yl-software-experts/"><u>Solve Your PC's Physical Issues in Windows Like a Pro - Insights by YL Software Experts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/swift-unjamming-for-print-queues/"><u>Swift Unjamming for Print Queues</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-techniques-and-programs-to-accelerate-your-computers-performance-insights-from-yl-computing/"><u>Top Techniques and Programs to Accelerate Your Computer's Performance: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/video-card-replacement-made-easy-step-by-step-instructions-by-yl-software-experts/"><u>Video Card Replacement Made Easy: Step-by-Step Instructions by YL Software Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-10-facebook-video-downloader-for-android-updated/"><u>[New] 2024 Approved Top 10 Facebook Video Downloader for Android - Updated</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-legitimate-tiktok-following-services/"><u>[Updated] Legitimate TikTok Following Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-troubleshooting-sudden-facebook-live-hiccups/"><u>2024 Approved Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/conversion-efficace-et-dhaut-qualite-des-fichiers-ts-vers-mp4-techniques-rapides-a-succes/"><u>Conversion Efficace Et D'Haut Qualité Des Fichiers TS Vers MP4 : Techniques Rapides À Succès</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/conversion-gratuite-en-hd-guide-complet-sur-la-transmutation-de-fichiers-mkv-hevch265-sans-perte-de-qualite-ni-ralentissement-des-performances/"><u>Conversion Gratuite en HD : Guide Complet Sur La Transmutation De Fichiers MKV HEVC/H.265 Sans Perte De Qualité Ni Ralentissement Des Performances</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/fixing-handbrake-issues-with-passthrough-capabilities-on-videos-and-dvds/"><u>Fixing Handbrake Issues with Passthrough Capabilities on Videos & DVDs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-iphone-customization-changing-your-phones-tune/"><u>In 2024, IPhone Customization Changing Your Phone's Tune</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-online-destinations-for-3d-shimmering-letters/"><u>In 2024, Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-transformation-of-pal-dvds-to-ntsc-standard-via-handbrake-a-comprehensive-tutorial/"><u>Mastering the Transformation of PAL DVDs to NTSC Standard via HandBrake - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/streamline-your-content-a-step-by-step-guide-to-uploading-rippable-dvds-onto-synologyqnap-nas-for-smooth-streaming-experiences/"><u>Streamline Your Content: A Step-by-Step Guide to Uploading Rippable DVDs Onto Synology/QNAP NAS for Smooth Streaming Experiences</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winxmediatrans-superior-app-flawless-transfer-of-photos-and-music-videos-between-iphone-ipad-and-computer/"><u>WinXMediaTrans™: Superior App Flawless Transfer of Photos and Music Videos Between iPhone, iPad & Computer</u></a></li>
 </ul></div>
 
