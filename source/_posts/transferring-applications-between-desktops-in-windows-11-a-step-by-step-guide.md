@@ -1,7 +1,7 @@
 ---
 title: "Transferring Applications Between Desktops in Windows 11: A Step-by-Step Guide"
-date: 2025-02-08T09:48:49.933Z
-updated: 2025-02-08T21:40:56.521Z
+date: 2025-03-03T23:35:00.411Z
+updated: 2025-03-07T22:32:44.712Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f3921972fa9eb3d747a1df53b5a.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -65,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -105,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -128,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-budget-friendly-tactics-to-increase-your-youtube-video-impact/"><u>[New] 2024 Approved Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>[New] A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-video-data-in-high-capacity-drives-64128gb/"><u>[New] Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[New] Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-troubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails/"><u>2024 Approved Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discovering-the-fix-for-win11nvidia/"><u>Discovering the Fix for Win11/NVIDIA</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-virtual-camera-software/"><u>Live Streaming Made Easy: Discover the Power of ManyCam, Virtual Camera Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-editing-and-online-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Advanced Video Editing and Online Camera Solutions</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-mastery-with-manycam-top-of-the-line-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam: Top-of-the-Line Virtual Camera Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-solutions-discover-manycams-advanced-features-and-online-cam-effects/"><u>Live Streaming Solutions: Discover ManyCam's Advanced Features and Online Cam Effects</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/live-streaming-with-manycam-ultimate-virtual-camera-software/"><u>Live Streaming with ManyCam: Ultimate Virtual Camera Software</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/map-downloads-ready-master-your-beats-on-the-newly-supported-pioneer-wego4dex3-pcdj-controllers/"><u>MAP Downloads Ready: Master Your Beats on the Newly-Supported Pioneer WeGO4/DEX3 PCDJ Controllers</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/real-time-broadcasting-mastery-with-manycam-the-ultimate-live-streaming-solution/"><u>Real-Time Broadcasting Mastery with ManyCam: The Ultimate Live Streaming Solution</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/real-time-streaming-solutions-discover-manycam-your-ultimate-virtual-camera-platform/"><u>Real-Time Streaming Solutions: Discover ManyCam - Your Ultimate Virtual Camera Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-all-day-charge-champion-a-deep-dive-into-moto-g-powers-stellar-battery-performance/"><u>The All-Day Charge Champion - A Deep Dive Into Moto G Power's Stellar Battery Performance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-5-hidden-gems-to-watch-insta-stories/"><u>Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/transform-your-online-presence-with-manycam-the-ultimate-live-video-and-digital-webcam-tool/"><u>Transform Your Online Presence with ManyCam – The Ultimate Live Video and Digital Webcam Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-methods-for-streaming-and-archiving-sports-events/"><u>[New] Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069366086-updated-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms-for-2024/"><u>[Updated] The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms. For 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/dvdmp4/"><u>高解像度でDVDファイルをMP4形式にエンコードする効果的方法</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-free-downloads-of-popular-english-music-hits/"><u>Best Free Downloads of Popular English Music Hits</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-methods-for-quick-and-efficient-conversion-from-swf-to-mp3-files-online/"><u>Best Methods for Quick and Efficient Conversion From SWF to MP3 Files Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/converting-your-pal-dvd-collection-to-compatible-ntsc-format-easily/"><u>Converting Your PAL DVD Collection to Compatible NTSC Format Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-features-how-does-the-ipad-mini-stack-up-against-the-ipad-air/"><u>Decoding Features: How Does the iPad Mini Stack Up Against the iPad Air?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-guide-how-to-successfully-download-avi-videos-from-youtube-and-similar-platforms/"><u>Easy Guide: How to Successfully Download AVI Videos From YouTube & Similar Platforms</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-steps-for-converting-71-audio-tracks-into-simple-stereo-mix/"><u>Easy Steps for Converting 7.1 Audio Tracks Into Simple Stereo Mix</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effective-ways-to-resolve-your-input-cant-be-opened-problem-in-vlc-player-a-guide-with-10-fixes/"><u>Effective Ways to Resolve 'Your Input Can't Be Opened' Problem in VLC Player - A Guide with 10 Fixes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>In 2024, Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>In 2024, Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-fit2-the-ultimate-portable-wellness-monitor/"><u>Samsung Galaxy Fit2: The Ultimate Portable Wellness Monitor</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-tiktok-voice-generators-you-should-try/"><u>Updated In 2024, Top 5 TikTok Voice Generators You Should Try</u></a></li>
 </ul></div>
 

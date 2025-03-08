@@ -1,7 +1,7 @@
 ---
 title: 1. Windows 10/11 ドライブの分割画像を新しい HDD/ SSDへ移行する手順
-date: 2025-02-03T01:32:14.447Z
-updated: 2025-02-09T07:19:09.453Z
+date: 2025-03-02T21:28:34.622Z
+updated: 2025-03-08T00:27:44.652Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af91f00d4dbb04a5e5e72a795.jpg
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -59,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -88,29 +72,17 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -156,17 +128,9 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,18 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-eliminate-unwanted-screen-elements-during-cam-record-for-2024/"><u>[Updated] Eliminate Unwanted Screen Elements During Cam Record for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1-professionelle-hd-video-umwandlungssoftware-fur-mac-perfekt-fur-avchd-m2ts-mkv-und-flv/"><u>1. Professionelle HD-Video-Umwandlungssoftware Für Mac: Perfekt Für AVCHD, M2TS, MKV Und FLV</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/pc-10/"><u>精選PC影片編輯器: 10款頂級版本，改善你的视频制作流程</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/best-no-cost-artificial-intelligence-programs-for-revitalizing-antique-photographs-top-10-selections/"><u>Best No-Cost Artificial Intelligence Programs for Revitalizing Antique Photographs: Top 10 Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/composing-cinematic-cues-trailer-soundscapes-guide/"><u>Composing Cinematic Cues Trailer Soundscapes Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/dvd-region-code-removal-and-modification-tutorials/"><u>DVD Region Code Removal & Modification Tutorials</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/guide-comment-dupliquer-parfaitement-un-disque-dur-avec-une-apple-macintosh/"><u>Guide: Comment Dupliquer Parfaitement Un Disque Dur Avec Une Apple Macintosh</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-90-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor 90 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-crafting-a-digital-identity-simple-steps-to-create-businesspersonal-youtube-channels-on-smartphones/"><u>In 2024, Crafting a Digital Identity Simple Steps to Create Business/Personal YouTube Channels on Smartphones</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/is-av1-video-compatibility-available-with-plex-media-server-learn-the-process/"><u>Is AV1 Video Compatibility Available with Plex Media Server? Learn the Process</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-v29-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V29 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-clearing-out-memory-dump-files-on-windows-11-with-yl-computings-techniques/"><u>Step-by-Step Guide: Clearing Out Memory Dump Files on Windows 11 with YL Computing's Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-modern-content-curators-guide-to-branding-10-tools/"><u>The Modern Content Curator's Guide to Branding - 10 Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-spark-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Spark 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/dvd-decrypter-202n/"><u>DVD Decrypter 最新バージョン202n年：日本語ファイルをダウンロードし、インストール手順を学ぶ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-newest-toshiba-satellite-drivers-in-windows-with-ease/"><u>Find and Install Newest Toshiba Satellite Drivers in Windows with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-error-messages-openal32dll-cannot-be-found-on-your-system/"><u>Fixing Error Messages: OpenAL32.DLL Cannot Be Found on Your System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-14-pro-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 14 Pro Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://article-files.techidaily.com/google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/handbrake-and-av1-is-it-compatible-for-encoding/"><u>HandBrake and AV1: Is It Compatible for Encoding?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-v30t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme V30T Without Password | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/making-the-right-choice-for-your-media-needs-dvds-vs-blu-rays-vs-digital-is-it-time-to-upgrade/"><u>Making the Right Choice for Your Media Needs: DVDs Vs. Blu-Rays Vs. Digital - Is It Time to Upgrade?</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/os-melhores-programas-gratuitos-para-masterizacao-de-dvd-no-windows-1011-descober-os-12-mais-populares-e-eficientes/"><u>Os Melhores Programas Gratuitos Para Masterização De DVD No Windows 10/11 - Descober Os 12 Mais Populares E Eficientes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-rated-tools-for-transforming-videos-on-instagram-your-guide-to-easy-conversions/"><u>Top Rated Tools for Transforming Videos on Instagram: Your Guide to Easy Conversions</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-troubleshooting-steps-for-fixing-windows-11-installation-failures/"><u>Ultimate Troubleshooting Steps for Fixing Windows 11 Installation Failures</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unraveling-the-mystery-behind-missing-subtitles-in-vintage-movie-collections-how-to-access-them/"><u>Unraveling the Mystery Behind Missing Subtitles in Vintage Movie Collections – How to Access Them?</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725289002149-winxvideo-ai-gpu/"><u>WinxVideo AI: 利用GPU强化加速，无价值转换视频与音频</u></a></li>
 </ul></div>
 

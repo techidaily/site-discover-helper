@@ -1,7 +1,7 @@
 ---
 title: Cara Mendapat Fotodisiri Yang Sesat Secara Akrab Dari iPhone X-XIV
-date: 2025-02-08T07:34:28.647Z
-updated: 2025-02-09T03:17:26.887Z
+date: 2025-03-02T18:46:32.978Z
+updated: 2025-03-07T17:24:41.964Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac44a3b64d442e286082e5edf.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -52,21 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -144,17 +128,9 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -165,10 +141,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -182,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -202,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,22 +216,19 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-boost-your-youtube-success-with-free-high-quality-audio/"><u>[Updated] In 2024, Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-premier-software-selection-for-youtube-intros/"><u>[Updated] The Premier Software Selection for YouTube Intros</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-nokia-(strike)3(strike)4-feature-phone-best-for-beginners/"><u>Comprehensive Analysis of the Nokia <Strike>3.</Strike>4 Feature Phone: Best for Beginners?</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/diagnosing-scanner-issues-expert-advice-by-yl-computing-and-yl-software/"><u>Diagnosing Scanner Issues: Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/exploring-ram-breakdowns-a-deep-dive-with-yl-software-experts/"><u>Exploring RAM Breakdowns: A Deep Dive with YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-14-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 14 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/is-distant-graphic-card-diagnosis-feasible-exploring-yl-softwares-approach-to-remote-error-identification/"><u>Is Distant Graphic Card Diagnosis Feasible? Exploring YL Software's Approach to Remote Error Identification</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-download-virtualdub-mpeg2-and-use-to-compress-mpeg2-videos/"><u>New 2024 Approved Download VirtualDub MPEG2 & Use to Compress MPEG2 Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sarah-silvermans-stand-against-ai-the-growing-tension-between-creatives-and-tech-corporations/"><u>Sarah Silverman's Stand Against AI: The Growing Tension Between Creatives & Tech Corporations</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-accessing-and-understanding-your-pcs-network-configuration-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing & Understanding Your PC's Network Configuration via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-your-first-twitter-chat/"><u>Step-by-Step Guide: Mastering Your First Twitter Chat</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamline-your-youtube-presentations-with-captions/"><u>Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-strategies-for-diagnosing-and-fixing-windows-graphic-card-problems-expert-advice-from-yl-computing/"><u>Top Strategies for Diagnosing and Fixing Windows Graphic Card Problems - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/understanding-the-impact-an-insight-into-the-great-leap-forwards-importance/"><u>Understanding the Impact: An Insight Into the Great Leap Forward's Importance</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/unlocking-windows-11s-latest-enhancements-a-step-by-step-guide/"><u>Unlocking Windows 11'S Latest Enhancements: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/yl-computing-reveals-is-using-encrypted-cryptocurrency-address-balance-trackers-complimentary/"><u>YL Computing Reveals: Is Using Encrypted Cryptocurrency Address Balance Trackers Complimentary?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-keyword-optimization-for-higher-youtube-viewership/"><u>[New] 2024 Approved Keyword Optimization for Higher YouTube Viewership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-diy-youtube-thumbnails-made-simple/"><u>[Updated] In 2024, DIY YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-speed-removing-ssgnatures-immediately/"><u>[Updated] Mastering Speed Removing Ssgnatures Immediately</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success-for-2024/"><u>[Updated] Swift Cinematic Skills The Quickest 5 DIY Hacks for Success for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/common-mistakes-to-avoid-when-using-file-explorer-in-windows-11/"><u>Common Mistakes to Avoid When Using File Explorer in Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/dive-deep-into-data-stellar-recoverys-embrace/"><u>Dive Deep Into Data: Stellar Recovery's Embrace</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-to-optimal-file-protection-techniques-in-windows-by-yl-software-experts/"><u>Guide to Optimal File Protection Techniques in Windows by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-quietly-turn-off-microsofts-win11-firewall/"><u>How to Quietly Turn Off Microsoft's Win11 Firewall</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-proplus-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-failed-video-cards-expert-solutions-by-yl-software/"><u>Troubleshooting Failed Video Cards: Expert Solutions by YL Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-tips-overcoming-scanner-issues-with-printer-combos-by-yl-software-experts/"><u>Troubleshooting Tips: Overcoming Scanner Issues with Printer Combos by YL Software Experts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-software-tutorial-securely-transitioning-retrieved-information-between-devices/"><u>YL Software Tutorial: Securely Transitioning Retrieved Information Between Devices</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-softwares-step-by-step-tutorial-on-configuring-your-wireless-printer/"><u>YL Software's Step-by-Step Tutorial on Configuring Your Wireless Printer</u></a></li>
 </ul></div>
 

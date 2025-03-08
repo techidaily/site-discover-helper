@@ -1,7 +1,7 @@
 ---
 title: PCDJ Reveals the Ultimate Mix of 2019'S Most Popular DJ Requested Songs (Top 200)
-date: 2025-02-12T16:28:27.221Z
-updated: 2025-02-19T04:58:02.169Z
+date: 2025-03-06T23:01:03.590Z
+updated: 2025-03-07T21:38:13.464Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## DJ Intelligence’s Most Requested Songs of 2019 (Top 10)
 
 | Rank | Artist                          | Title                                            |
@@ -56,10 +52,6 @@ While it’s 2019 and hot new tracks will make their way on to next years chart,
 [View All 200 Top Requested Songs of 2019](https://www.djintelligence.com/charts/DJIntelligenceMostRequested2019.pdf)
 
 _What were your **Top Requested Songs of 2019**? Feel free to leave your top 10 in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -80,18 +72,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/01/top-requestedsongs.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-10-facebook-video-downloader-for-android-updated/"><u>[New] 2024 Approved Top 10 Facebook Video Downloader for Android - Updated</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-legitimate-tiktok-following-services/"><u>[Updated] Legitimate TikTok Following Services</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-troubleshooting-sudden-facebook-live-hiccups/"><u>2024 Approved Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/conversion-efficace-et-dhaut-qualite-des-fichiers-ts-vers-mp4-techniques-rapides-a-succes/"><u>Conversion Efficace Et D'Haut Qualité Des Fichiers TS Vers MP4 : Techniques Rapides À Succès</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/conversion-gratuite-en-hd-guide-complet-sur-la-transmutation-de-fichiers-mkv-hevch265-sans-perte-de-qualite-ni-ralentissement-des-performances/"><u>Conversion Gratuite en HD : Guide Complet Sur La Transmutation De Fichiers MKV HEVC/H.265 Sans Perte De Qualité Ni Ralentissement Des Performances</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/fixing-handbrake-issues-with-passthrough-capabilities-on-videos-and-dvds/"><u>Fixing Handbrake Issues with Passthrough Capabilities on Videos & DVDs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-iphone-customization-changing-your-phones-tune/"><u>In 2024, IPhone Customization Changing Your Phone's Tune</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-online-destinations-for-3d-shimmering-letters/"><u>In 2024, Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-transformation-of-pal-dvds-to-ntsc-standard-via-handbrake-a-comprehensive-tutorial/"><u>Mastering the Transformation of PAL DVDs to NTSC Standard via HandBrake - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://article-posts.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/streamline-your-content-a-step-by-step-guide-to-uploading-rippable-dvds-onto-synologyqnap-nas-for-smooth-streaming-experiences/"><u>Streamline Your Content: A Step-by-Step Guide to Uploading Rippable DVDs Onto Synology/QNAP NAS for Smooth Streaming Experiences</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/winxmediatrans-superior-app-flawless-transfer-of-photos-and-music-videos-between-iphone-ipad-and-computer/"><u>WinXMediaTrans™: Superior App Flawless Transfer of Photos and Music Videos Between iPhone, iPad & Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unblemished-visuals-buying-high-quality-images/"><u>[New] Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-essential-how-to-for-extracting-youtube-srt-files/"><u>[Updated] 2024 Approved The Essential How-To for Extracting YouTube SRT Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-caption-crafting-select-writing-apps-for-your-photos/"><u>[Updated] Caption Crafting Select Writing Apps for Your Photos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-determining-a-bespoke-keyword-for-your-tiktok-feed/"><u>[Updated] Determining a Bespoke Keyword for Your TikTok Feed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-iphone-playlist-podcast-tips/"><u>[Updated] The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-a-new-graphics-card-can-enhance-computer-speed-and-efficiency-insights-by-yl-technologies/"><u>How a New Graphics Card Can Enhance Computer Speed & Efficiency: Insights by YL Technologies</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-can-i-effectively-keep-tabs-on-my-digital-asset-growth-discover-tools-with-yl-software-solutions/"><u>How Can I Effectively Keep Tabs on My Digital Asset Growth? Discover Tools with YL Software Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-civi-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Civi 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/is-registration-necessary-for-accessing-balance-via-a-crypto-wallet-address-checker-insights-by-yl-computing/"><u>Is Registration Necessary for Accessing Balance via a Crypto Wallet Address Checker - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/maximizing-your-computers-performance-essential-tips-from-yl-computing/"><u>Maximizing Your Computer's Performance - Essential Tips From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/the-elite-list-of-renowned-bitcoin-addresses-a-deep-dive-with-yl-software-expertise/"><u>The Elite List of Renowned Bitcoin Addresses: A Deep Dive with YL Software Expertise</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unleash-creative-vibes-with-smokeys-elite-image-selection-powered-by-yl-software-for-ultimate-personalization/"><u>Unleash Creative Vibes with Smokey’s Elite Image Selection – Powered by YL Software for Ultimate Personalization!</u></a></li>
 </ul></div>
 

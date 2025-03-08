@@ -1,7 +1,7 @@
 ---
 title: "WD My Cloud & Windows 10: 簡單且自動的複製方法透析 - 兩大解決方案"
-date: 2025-02-02T19:01:27.599Z
-updated: 2025-02-08T20:47:38.703Z
+date: 2025-03-02T21:52:19.447Z
+updated: 2025-03-07T17:01:45.865Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593d3d88e2cde5996f7415935f.jpg
@@ -54,10 +54,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -70,25 +66,13 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -97,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -161,17 +141,9 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -207,10 +179,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
@@ -239,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -268,21 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-web-accessory-fb-stories-keeper/"><u>[New] In 2024, Web Accessory FB Stories Keeper</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-which-is-better-for-streamers-obs-studio-or-fraps/"><u>[Updated] 2024 Approved Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-adapting-spotify-playlists-into-a-youtube-music-format/"><u>[Updated] Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comprehensive-look-at-razer-kiyo-webcam-for-2024/"><u>[Updated] Comprehensive Look at Razer Kiyo Webcam for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts-for-2024/"><u>[Updated] Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/mp3-320kbpsmp3/"><u>最適化MP3変換 - 320Kbpsファイルに高音質MP3を上げる方法</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correct-usb-to-ethernet-connector-glitch-optiplex/"><u>Correct USB-to-Ethernet Connector Glitch, OptiPlex</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-nexiq-usb-link-2-drives-comprehensive-instructions-and-download-links/"><u>Easy Installation of NEXIQ USB-Link 2 Drives: Comprehensive Instructions and Download Links</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/fixing-mp4-format-issues-for-smooth-playback-on-sony-ps4-systems/"><u>Fixing MP4 Format Issues for Smooth Playback on Sony PS4 Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-sustainable-strategies-for-securing-over-a-million-viewers/"><u>In 2024, Sustainable Strategies for Securing Over a Million Viewers</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/losing-less-audio-fidelity-while-transforming-your-wav-tracks-into-mp3s/"><u>Losing Less Audio Fidelity While Transforming Your WAV Tracks Into MP3s</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/seamless-dvd-playback-on-tv-via-google-chromecast-a-step-by-step-guide/"><u>Seamless DVD Playback on TV via Google Chromecast - A Step by Step Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/simple-steps-to-convert-your-dvds-into-mkv-format-on-windows-11-and-10/"><u>Simple Steps to Convert Your DVDs Into MKV Format on Windows 11 and 10</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-extracting-soundtracks-from-your-dvds/"><u>Step-by-Step Guide: Extracting Soundtracks From Your DVDs</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-capturing-and-archiving-your-zoom-meetings-successfully/"><u>Step-by-Step Tutorial: Capturing and Archiving Your Zoom Meetings Successfully</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-dslr-and-mirrorless-excellence-with-ideal-gimbals-for-2024/"><u>[New] DSLR & Mirrorless Excellence with Ideal Gimbals for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1-xrecorder-para-windows-herramienta-de-grabacion-gratuita-y-facil-de-usar/"><u>1. XRECORDER Para Windows - Herramienta De Grabación Gratuita Y Fácil De Usar</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mac-6/"><u>解決 Mac 不能复制文件到外置硬盘的问题: 6个快速修复方法</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/complete-guide-restoring-the-mbr-on-windows-11-10-8-and-7/"><u>Complete Guide: Restoring the MBR on Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/error-webpage-unavailable-http-404/"><u>Error: Webpage Unavailable (HTTP 404)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-reactivating-an-idevice-with-limited-usability/"><u>Expert Tips for Reactivating an iDevice with Limited Usability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-extraordinary-functionality-of-snapchats-my-ai-here-are-eight-convincing-factors/"><u>Explore the Extraordinary Functionality of Snapchat's My AI - Here Are Eight Convincing Factors</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-activate-and-use-system-restore-on-windows-11-a-fast-fix-solution/"><u>How to Activate and Use System Restore on Windows 11: A Fast Fix Solution</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-resolve-windows-1110-compatibility-issues-with-your-ssd-four-effective-strategies/"><u>How to Resolve Windows 11/10 Compatibility Issues with Your SSD - Four Effective Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-content-file-locked-error-on-steam-platform/"><u>Overcoming the 'Content File Locked' Error on Steam Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-mute-mystery-expert-advice-on-getting-heard-on-discord/"><u>Resolving the Mute Mystery: Expert Advice on Getting Heard on Discord</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/solucionado-problemas-de-acceso-del-sistema-a-los-archivos/"><u>Solucionado: Problemas De Acceso Del Sistema a Los Archivos</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-shifting-data-from-your-ios-device-to-an-external-hard-disk/"><u>Step-by-Step Guide: Shifting Data From Your iOS Device to an External Hard Disk</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-magic-5-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor Magic 5 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-guide-configuring-your-vmware-vcenter-network-via-dual-approaches/"><u>Ultimate Guide: Configuring Your VMware vCenter Network via Dual Approaches</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/ultimate-how-to-safely-reboot-your-toshiba-external-hdd-with-simple-steps/"><u>Ultimate How-To: Safely Reboot Your Toshiba External HDD with Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-shap-e-exploring-interpretability-in-ml/"><u>What Is SHAP E? Exploring Interpretability in ML</u></a></li>
 </ul></div>
 
